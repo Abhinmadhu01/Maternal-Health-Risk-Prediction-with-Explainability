@@ -1,0 +1,1418 @@
+Age,SystolicBP,DiastolicBP,BS,BodyTemp,HeartRate,RiskLevel,Reasons
+22,90.0,60.0,9.0,100.0,80.0,high risk,Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Monitor temperature and stay hydrated; Prenatal monitoring recommended
+22,110.0,70.0,7.1,98.0,74.0,low risk,All parameters normal - maintain routine prenatal care
+27,110.0,70.0,7.5,98.0,72.0,low risk,All parameters normal - maintain routine prenatal care
+20,100.0,70.0,7.2,98.0,74.0,low risk,All parameters normal - maintain routine prenatal care
+20,90.0,60.0,7.5,98.0,74.0,low risk,Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+22,120.0,70.0,7.01,98.0,76.0,low risk,All parameters normal - maintain routine prenatal care
+20,110.0,70.0,9.0,102.0,78.0,high risk,Seek immediate treatment for high fever
+23,110.0,80.0,7.0,98.0,74.0,low risk,All parameters normal - maintain routine prenatal care
+22,90.0,60.0,6.4,98.0,72.0,low risk,Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+26,110.0,70.0,12.0,100.0,80.0,high risk,Monitor carbohydrate intake and blood sugar levels; Monitor temperature and stay hydrated; Prenatal monitoring recommended
+25,100.0,60.0,7.0,98.0,74.0,low risk,Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+22,120.0,70.0,9.9,101.0,84.0,high risk,Seek immediate treatment for high fever; Reduce caffeine and monitor heart rate
+23,100.0,60.0,6.4,98.0,66.0,low risk,Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+19,90.0,60.0,6.0,98.0,70.0,low risk,Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+22,100.0,60.0,7.1,98.0,74.0,low risk,Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+23,90.0,60.0,7.0,98.0,72.0,low risk,Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+18,100.0,70.0,7.5,98.0,74.0,low risk,All parameters normal - maintain routine prenatal care
+20,110.0,80.0,7.1,98.0,74.0,low risk,All parameters normal - maintain routine prenatal care
+24,110.0,60.0,6.5,98.0,70.0,low risk,Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+21,110.0,70.0,6.6,98.0,74.0,low risk,All parameters normal - maintain routine prenatal care
+44,140.0,100.0,14.0,98.0,88.0,high risk,Monitor systolic BP and reduce salt intake; Urgent care needed for diastolic BP; Monitor carbohydrate intake and blood sugar levels; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+18,110.0,70.0,7.0,98.0,76.0,low risk,All parameters normal - maintain routine prenatal care
+23,100.0,70.0,7.5,100.0,74.0,low risk,Monitor temperature and stay hydrated
+17,120.0,80.0,8.0,98.0,70.0,low risk,Adolescent pregnancy requires specialized care
+21,100.0,60.0,6.2,98.0,66.0,low risk,Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+23,120.0,80.0,7.1,98.0,74.0,low risk,All parameters normal - maintain routine prenatal care
+18,90.0,60.0,7.3,98.0,72.0,low risk,Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+25,120.0,70.0,7.0,98.0,70.0,low risk,All parameters normal - maintain routine prenatal care
+21,100.0,60.0,6.5,98.0,76.0,low risk,Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+19,110.0,70.0,7.0,100.0,70.0,low risk,Monitor temperature and stay hydrated
+26,140.0,90.0,12.0,101.0,80.0,high risk,Monitor systolic BP and reduce salt intake; Monitor diastolic BP and practice relaxation techniques; Monitor carbohydrate intake and blood sugar levels; Seek immediate treatment for high fever; Prenatal monitoring recommended
+18,100.0,70.0,7.0,100.0,76.0,low risk,Monitor temperature and stay hydrated
+28,90.0,60.0,6.9,98.0,68.0,low risk,Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+20,110.0,70.0,7.0,98.0,76.0,low risk,All parameters normal - maintain routine prenatal care
+25,90.0,60.0,7.9,98.0,72.0,low risk,Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+17,110.0,80.0,6.7,98.0,78.0,low risk,Adolescent pregnancy requires specialized care
+26,90.0,60.0,7.0,98.0,74.0,low risk,Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+24,110.0,70.0,7.1,100.0,78.0,low risk,Monitor temperature and stay hydrated
+19,130.0,80.0,8.0,98.0,70.0,low risk,All parameters normal - maintain routine prenatal care
+28,150.0,100.0,9.0,98.0,88.0,high risk,Monitor systolic BP and reduce salt intake; Urgent care needed for diastolic BP; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+40,150.0,90.0,11.0,100.0,80.0,high risk,Monitor systolic BP and reduce salt intake; Monitor diastolic BP and practice relaxation techniques; Monitor temperature and stay hydrated; Prenatal monitoring recommended
+23,90.0,60.0,7.0,98.0,70.0,low risk,Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+18,130.0,80.0,6.6,98.0,74.0,low risk,All parameters normal - maintain routine prenatal care
+17,100.0,70.0,6.1,98.0,78.0,low risk,Adolescent pregnancy requires specialized care
+37,110.0,70.0,7.5,98.0,68.0,low risk,All parameters normal - maintain routine prenatal care
+29,120.0,80.0,7.0,98.0,76.0,low risk,All parameters normal - maintain routine prenatal care
+26,160.0,100.0,6.9,98.0,72.0,low risk,Urgent medical attention needed for systolic BP; Urgent care needed for diastolic BP; Prenatal monitoring recommended
+19,150.0,100.0,7.2,98.0,77.0,low risk,Monitor systolic BP and reduce salt intake; Urgent care needed for diastolic BP; Prenatal monitoring recommended
+22,140.0,90.0,7.0,98.0,70.0,low risk,Monitor systolic BP and reduce salt intake; Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+18,120.0,80.0,6.0,98.0,76.0,low risk,All parameters normal - maintain routine prenatal care
+21,110.0,70.0,7.9,98.0,72.0,low risk,All parameters normal - maintain routine prenatal care
+34,100.0,60.0,14.0,98.0,74.0,high risk,Consider compression stockings for low diastolic BP; Monitor carbohydrate intake and blood sugar levels; Prenatal monitoring recommended
+19,110.0,70.0,6.7,98.0,68.0,low risk,All parameters normal - maintain routine prenatal care
+35,160.0,100.0,18.0,98.0,60.0,high risk,Urgent medical attention needed for systolic BP; Urgent care needed for diastolic BP; Immediate diabetes screening recommended; Medical evaluation for low heart rate; Prenatal monitoring recommended
+36,130.0,90.0,13.0,98.0,90.0,high risk,Monitor diastolic BP and practice relaxation techniques; Monitor carbohydrate intake and blood sugar levels; Cardiac evaluation recommended for high heart rate; Prenatal monitoring recommended
+32,130.0,110.0,15.0,100.0,88.0,high risk,Urgent care needed for diastolic BP; Immediate diabetes screening recommended; Monitor temperature and stay hydrated; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+25,140.0,90.0,11.0,98.0,78.0,high risk,Monitor systolic BP and reduce salt intake; Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+38,140.0,100.0,17.0,98.0,80.0,high risk,Monitor systolic BP and reduce salt intake; Urgent care needed for diastolic BP; Immediate diabetes screening recommended; Prenatal monitoring recommended
+48,140.0,96.0,19.0,98.0,86.0,high risk,Monitor systolic BP and reduce salt intake; Monitor diastolic BP and practice relaxation techniques; Immediate diabetes screening recommended; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+27,120.0,70.0,9.0,101.0,80.0,high risk,Seek immediate treatment for high fever
+25,90.0,60.0,6.9,98.0,70.0,low risk,Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+21,90.0,60.0,6.1,98.0,72.0,low risk,Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+19,100.0,70.0,6.0,98.0,76.0,low risk,All parameters normal - maintain routine prenatal care
+20,100.0,60.0,6.6,98.0,74.0,low risk,Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+28,100.0,70.0,7.0,98.0,70.0,low risk,All parameters normal - maintain routine prenatal care
+29,120.0,80.0,7.7,98.0,76.0,low risk,All parameters normal - maintain routine prenatal care
+19,130.0,90.0,9.0,100.0,88.0,high risk,Monitor diastolic BP and practice relaxation techniques; Monitor temperature and stay hydrated; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+24,180.0,90.0,7.6,98.0,80.0,high risk,Urgent medical attention needed for systolic BP; Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+30,140.0,100.0,9.0,98.0,84.0,high risk,Monitor systolic BP and reduce salt intake; Urgent care needed for diastolic BP; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+28,160.0,90.0,7.9,98.0,66.0,high risk,Urgent medical attention needed for systolic BP; Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+39,140.0,100.0,14.0,98.0,78.0,high risk,Monitor systolic BP and reduce salt intake; Urgent care needed for diastolic BP; Monitor carbohydrate intake and blood sugar levels; Prenatal monitoring recommended
+28,110.0,70.0,7.0,98.0,72.0,low risk,All parameters normal - maintain routine prenatal care
+35,90.0,60.0,7.8,98.0,76.0,low risk,Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+29,120.0,80.0,7.1,98.0,72.0,low risk,All parameters normal - maintain routine prenatal care
+32,110.0,70.0,6.9,98.0,76.0,low risk,All parameters normal - maintain routine prenatal care
+29,120.0,80.0,7.7,98.0,70.0,low risk,All parameters normal - maintain routine prenatal care
+18,100.0,70.0,5.3,98.0,72.0,low risk,All parameters normal - maintain routine prenatal care
+24,100.0,60.0,6.6,98.0,78.0,low risk,Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+30,100.0,60.0,7.8,98.0,77.0,low risk,Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+25,90.0,65.0,8.0,100.0,62.0,high risk,Increase fluid intake for low systolic BP; Monitor temperature and stay hydrated; Prenatal monitoring recommended
+30,130.0,90.0,11.0,98.0,82.0,high risk,Monitor diastolic BP and practice relaxation techniques; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+36,130.0,100.0,14.0,98.0,90.0,high risk,Urgent care needed for diastolic BP; Monitor carbohydrate intake and blood sugar levels; Cardiac evaluation recommended for high heart rate; Prenatal monitoring recommended
+18,100.0,70.0,5.7,101.0,88.0,high risk,Seek immediate treatment for high fever; Reduce caffeine and monitor heart rate
+25,120.0,80.0,6.6,98.0,74.0,low risk,All parameters normal - maintain routine prenatal care
+20,110.0,70.0,6.1,98.0,70.0,low risk,All parameters normal - maintain routine prenatal care
+35,100.0,60.0,7.9,98.0,77.0,low risk,Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+30,110.0,70.0,7.4,98.0,70.0,low risk,All parameters normal - maintain routine prenatal care
+24,120.0,85.0,6.1,98.0,76.0,low risk,All parameters normal - maintain routine prenatal care
+31,140.0,90.0,17.0,98.0,88.0,high risk,Monitor systolic BP and reduce salt intake; Monitor diastolic BP and practice relaxation techniques; Immediate diabetes screening recommended; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+18,120.0,80.0,5.2,98.0,74.0,low risk,All parameters normal - maintain routine prenatal care
+20,110.0,70.0,5.5,98.0,72.0,low risk,All parameters normal - maintain routine prenatal care
+18,110.0,65.0,5.3,98.0,70.0,low risk,All parameters normal - maintain routine prenatal care
+28,120.0,80.0,6.3,98.0,76.0,low risk,All parameters normal - maintain routine prenatal care
+25,110.0,70.0,6.0,98.0,70.0,low risk,All parameters normal - maintain routine prenatal care
+39,140.0,90.0,18.0,98.0,86.0,high risk,Monitor systolic BP and reduce salt intake; Monitor diastolic BP and practice relaxation techniques; Immediate diabetes screening recommended; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+28,180.0,120.0,9.0,98.0,88.0,high risk,Urgent medical attention needed for systolic BP; Urgent care needed for diastolic BP; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+20,160.0,90.0,7.8,100.0,90.0,high risk,Urgent medical attention needed for systolic BP; Monitor diastolic BP and practice relaxation techniques; Monitor temperature and stay hydrated; Cardiac evaluation recommended for high heart rate; Prenatal monitoring recommended
+33,140.0,90.0,7.7,98.0,74.0,low risk,Monitor systolic BP and reduce salt intake; Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+41,120.0,85.0,18.0,98.0,78.0,high risk,Immediate diabetes screening recommended; Prenatal monitoring recommended
+25,140.0,100.0,11.0,98.0,90.0,high risk,Monitor systolic BP and reduce salt intake; Urgent care needed for diastolic BP; Cardiac evaluation recommended for high heart rate; Prenatal monitoring recommended
+35,140.0,100.0,14.0,98.0,86.0,high risk,Monitor systolic BP and reduce salt intake; Urgent care needed for diastolic BP; Monitor carbohydrate intake and blood sugar levels; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+33,150.0,100.0,12.0,98.0,80.0,high risk,Monitor systolic BP and reduce salt intake; Urgent care needed for diastolic BP; Monitor carbohydrate intake and blood sugar levels; Prenatal monitoring recommended
+27,150.0,110.0,11.0,98.0,85.0,high risk,Monitor systolic BP and reduce salt intake; Urgent care needed for diastolic BP; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+22,130.0,90.0,7.7,97.0,82.0,high risk,Monitor diastolic BP and practice relaxation techniques; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+25,140.0,100.0,9.0,98.0,78.0,high risk,Monitor systolic BP and reduce salt intake; Urgent care needed for diastolic BP; Prenatal monitoring recommended
+23,140.0,90.0,8.0,98.0,76.0,high risk,Monitor systolic BP and reduce salt intake; Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+24,150.0,100.0,7.9,98.0,77.0,high risk,Monitor systolic BP and reduce salt intake; Urgent care needed for diastolic BP; Prenatal monitoring recommended
+29,150.0,100.0,13.0,98.0,82.0,high risk,Monitor systolic BP and reduce salt intake; Urgent care needed for diastolic BP; Monitor carbohydrate intake and blood sugar levels; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+26,160.0,100.0,11.0,100.0,90.0,high risk,Urgent medical attention needed for systolic BP; Urgent care needed for diastolic BP; Monitor temperature and stay hydrated; Cardiac evaluation recommended for high heart rate; Prenatal monitoring recommended
+19,150.0,100.0,7.0,98.0,62.0,high risk,Monitor systolic BP and reduce salt intake; Urgent care needed for diastolic BP; Prenatal monitoring recommended
+22,140.0,90.0,7.6,98.0,86.0,high risk,Monitor systolic BP and reduce salt intake; Monitor diastolic BP and practice relaxation techniques; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+25,160.0,100.0,11.0,98.0,88.0,high risk,Urgent medical attention needed for systolic BP; Urgent care needed for diastolic BP; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+36,130.0,90.0,17.0,98.0,66.0,high risk,Monitor diastolic BP and practice relaxation techniques; Immediate diabetes screening recommended; Prenatal monitoring recommended
+24,130.0,110.0,10.0,101.0,78.0,high risk,Urgent care needed for diastolic BP; Seek immediate treatment for high fever; Prenatal monitoring recommended
+25,140.0,90.0,12.0,98.0,82.0,high risk,Monitor systolic BP and reduce salt intake; Monitor diastolic BP and practice relaxation techniques; Monitor carbohydrate intake and blood sugar levels; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+20,140.0,100.0,7.9,98.0,88.0,high risk,Monitor systolic BP and reduce salt intake; Urgent care needed for diastolic BP; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+30,140.0,100.0,14.0,98.0,90.0,high risk,Monitor systolic BP and reduce salt intake; Urgent care needed for diastolic BP; Monitor carbohydrate intake and blood sugar levels; Cardiac evaluation recommended for high heart rate; Prenatal monitoring recommended
+30,140.0,100.0,11.0,98.0,92.0,high risk,Monitor systolic BP and reduce salt intake; Urgent care needed for diastolic BP; Cardiac evaluation recommended for high heart rate; Prenatal monitoring recommended
+19,130.0,90.0,7.5,97.0,78.0,high risk,Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+24,180.0,90.0,9.0,98.0,77.0,high risk,Urgent medical attention needed for systolic BP; Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+28,160.0,90.0,9.0,98.0,84.0,high risk,Urgent medical attention needed for systolic BP; Monitor diastolic BP and practice relaxation techniques; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+39,140.0,100.0,18.0,98.0,74.0,high risk,Monitor systolic BP and reduce salt intake; Urgent care needed for diastolic BP; Immediate diabetes screening recommended; Prenatal monitoring recommended
+18,140.0,100.0,8.0,98.0,76.0,high risk,Monitor systolic BP and reduce salt intake; Urgent care needed for diastolic BP; Prenatal monitoring recommended
+30,140.0,100.0,11.0,97.0,77.0,high risk,Monitor systolic BP and reduce salt intake; Urgent care needed for diastolic BP; Prenatal monitoring recommended
+30,130.0,90.0,9.0,98.0,78.0,high risk,Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+39,130.0,100.0,19.0,98.0,80.0,high risk,Urgent care needed for diastolic BP; Immediate diabetes screening recommended; Prenatal monitoring recommended
+18,100.0,70.0,7.0,98.0,86.0,high risk,Reduce caffeine and monitor heart rate
+25,140.0,90.0,9.0,98.0,79.0,high risk,Monitor systolic BP and reduce salt intake; Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+38,140.0,90.0,16.0,101.0,78.0,high risk,Monitor systolic BP and reduce salt intake; Monitor diastolic BP and practice relaxation techniques; Immediate diabetes screening recommended; Seek immediate treatment for high fever; Prenatal monitoring recommended
+24,180.0,120.0,9.0,100.0,76.0,high risk,Urgent medical attention needed for systolic BP; Urgent care needed for diastolic BP; Monitor temperature and stay hydrated; Prenatal monitoring recommended
+35,150.0,90.0,15.0,98.0,60.0,high risk,Monitor systolic BP and reduce salt intake; Monitor diastolic BP and practice relaxation techniques; Immediate diabetes screening recommended; Medical evaluation for low heart rate; Prenatal monitoring recommended
+33,160.0,100.0,13.0,98.0,70.0,high risk,Urgent medical attention needed for systolic BP; Urgent care needed for diastolic BP; Monitor carbohydrate intake and blood sugar levels; Prenatal monitoring recommended
+29,130.0,90.0,11.0,97.0,74.0,high risk,Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+35,140.0,100.0,15.0,98.0,79.0,high risk,Monitor systolic BP and reduce salt intake; Urgent care needed for diastolic BP; Immediate diabetes screening recommended; Prenatal monitoring recommended
+35,140.0,90.0,16.0,98.0,88.0,high risk,Monitor systolic BP and reduce salt intake; Monitor diastolic BP and practice relaxation techniques; Immediate diabetes screening recommended; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+30,150.0,90.0,12.0,98.0,79.0,high risk,Monitor systolic BP and reduce salt intake; Monitor diastolic BP and practice relaxation techniques; Monitor carbohydrate intake and blood sugar levels; Prenatal monitoring recommended
+36,170.0,120.0,14.0,98.0,90.0,high risk,Urgent medical attention needed for systolic BP; Urgent care needed for diastolic BP; Monitor carbohydrate intake and blood sugar levels; Cardiac evaluation recommended for high heart rate; Prenatal monitoring recommended
+29,110.0,70.0,10.0,98.0,80.0,high risk,All parameters normal - maintain routine prenatal care
+28,160.0,90.0,9.0,98.0,78.0,high risk,Urgent medical attention needed for systolic BP; Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+22,180.0,140.0,7.7,98.0,87.0,high risk,Urgent medical attention needed for systolic BP; Urgent care needed for diastolic BP; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+18,140.0,100.0,7.0,98.0,88.0,high risk,Monitor systolic BP and reduce salt intake; Urgent care needed for diastolic BP; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+33,150.0,100.0,11.0,100.0,84.0,high risk,Monitor systolic BP and reduce salt intake; Urgent care needed for diastolic BP; Monitor temperature and stay hydrated; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+20,140.0,90.0,7.5,98.0,80.0,high risk,Monitor systolic BP and reduce salt intake; Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+23,150.0,90.0,8.0,98.0,90.0,high risk,Monitor systolic BP and reduce salt intake; Monitor diastolic BP and practice relaxation techniques; Cardiac evaluation recommended for high heart rate; Prenatal monitoring recommended
+22,160.0,120.0,7.9,98.0,79.0,high risk,Urgent medical attention needed for systolic BP; Urgent care needed for diastolic BP; Prenatal monitoring recommended
+25,150.0,90.0,8.0,98.0,77.0,high risk,Monitor systolic BP and reduce salt intake; Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+30,150.0,100.0,11.0,101.0,64.0,high risk,Monitor systolic BP and reduce salt intake; Urgent care needed for diastolic BP; Seek immediate treatment for high fever; Prenatal monitoring recommended
+32,150.0,110.0,11.0,98.0,78.0,high risk,Monitor systolic BP and reduce salt intake; Urgent care needed for diastolic BP; Prenatal monitoring recommended
+22,130.0,90.0,8.0,98.0,82.0,high risk,Monitor diastolic BP and practice relaxation techniques; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+27,140.0,90.0,8.6,98.0,84.0,high risk,Monitor systolic BP and reduce salt intake; Monitor diastolic BP and practice relaxation techniques; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+25,140.0,100.0,8.4,98.0,86.0,high risk,Monitor systolic BP and reduce salt intake; Urgent care needed for diastolic BP; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+35,130.0,90.0,16.0,102.0,86.0,high risk,Monitor diastolic BP and practice relaxation techniques; Immediate diabetes screening recommended; Seek immediate treatment for high fever; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+23,180.0,130.0,7.8,98.0,88.0,high risk,Urgent medical attention needed for systolic BP; Urgent care needed for diastolic BP; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+26,140.0,90.0,8.3,98.0,89.0,high risk,Monitor systolic BP and reduce salt intake; Monitor diastolic BP and practice relaxation techniques; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+24,120.0,90.0,8.1,98.0,77.0,high risk,Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+25,130.0,100.0,8.2,98.0,78.0,high risk,Urgent care needed for diastolic BP; Prenatal monitoring recommended
+25,130.0,80.0,8.7,100.0,80.0,high risk,Monitor temperature and stay hydrated
+28,120.0,80.0,9.0,98.0,83.0,high risk,Reduce caffeine and monitor heart rate
+25,130.0,90.0,8.0,98.0,84.0,high risk,Monitor diastolic BP and practice relaxation techniques; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+18,140.0,100.0,7.0,98.0,86.0,high risk,Monitor systolic BP and reduce salt intake; Urgent care needed for diastolic BP; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+23,140.0,95.0,7.7,98.0,88.0,high risk,Monitor systolic BP and reduce salt intake; Monitor diastolic BP and practice relaxation techniques; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+30,140.0,90.0,11.0,97.0,86.0,high risk,Monitor systolic BP and reduce salt intake; Monitor diastolic BP and practice relaxation techniques; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+36,140.0,90.0,17.0,98.0,88.0,high risk,Monitor systolic BP and reduce salt intake; Monitor diastolic BP and practice relaxation techniques; Immediate diabetes screening recommended; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+18,120.0,90.0,7.2,98.0,90.0,high risk,Monitor diastolic BP and practice relaxation techniques; Cardiac evaluation recommended for high heart rate; Prenatal monitoring recommended
+21,140.0,90.0,7.4,98.0,78.0,high risk,Monitor systolic BP and reduce salt intake; Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+22,130.0,90.0,7.7,98.0,80.0,high risk,Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+28,140.0,80.0,8.9,99.0,86.0,high risk,Monitor systolic BP and reduce salt intake; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+31,130.0,80.0,9.0,98.0,88.0,high risk,Reduce caffeine and monitor heart rate
+20,130.0,80.0,7.0,98.0,82.0,high risk,Reduce caffeine and monitor heart rate
+20,140.0,80.0,6.9,98.0,78.0,high risk,Monitor systolic BP and reduce salt intake; Prenatal monitoring recommended
+30,130.0,90.0,11.0,98.0,77.0,high risk,Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+28,140.0,80.0,9.0,98.0,76.0,high risk,Monitor systolic BP and reduce salt intake; Prenatal monitoring recommended
+27,130.0,100.0,8.8,98.0,60.0,high risk,Urgent care needed for diastolic BP; Medical evaluation for low heart rate; Prenatal monitoring recommended
+22,140.0,90.0,7.0,98.0,62.0,high risk,Monitor systolic BP and reduce salt intake; Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+33,140.0,80.0,13.0,98.0,90.0,high risk,Monitor systolic BP and reduce salt intake; Monitor carbohydrate intake and blood sugar levels; Cardiac evaluation recommended for high heart rate; Prenatal monitoring recommended
+22,140.0,70.0,7.0,98.0,88.0,high risk,Monitor systolic BP and reduce salt intake; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+27,130.0,90.0,10.0,101.0,87.0,high risk,Monitor diastolic BP and practice relaxation techniques; Seek immediate treatment for high fever; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+25,130.0,90.0,9.8,98.0,88.0,high risk,Monitor diastolic BP and practice relaxation techniques; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+25,130.0,100.0,7.8,98.0,86.0,high risk,Urgent care needed for diastolic BP; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+33,160.0,100.0,12.0,98.0,84.0,high risk,Urgent medical attention needed for systolic BP; Urgent care needed for diastolic BP; Monitor carbohydrate intake and blood sugar levels; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+32,200.0,100.0,11.0,98.0,80.0,high risk,Urgent medical attention needed for systolic BP; Urgent care needed for diastolic BP; Prenatal monitoring recommended
+35,160.0,100.0,14.0,101.0,78.0,high risk,Urgent medical attention needed for systolic BP; Urgent care needed for diastolic BP; Monitor carbohydrate intake and blood sugar levels; Seek immediate treatment for high fever; Prenatal monitoring recommended
+25,130.0,90.0,7.7,98.0,79.0,high risk,Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+30,130.0,90.0,9.9,98.0,76.0,high risk,Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+28,140.0,90.0,8.0,98.0,80.0,high risk,Monitor systolic BP and reduce salt intake; Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+19,140.0,90.0,6.9,98.0,88.0,high risk,Monitor systolic BP and reduce salt intake; Monitor diastolic BP and practice relaxation techniques; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+25,140.0,100.0,7.9,97.0,88.0,high risk,Monitor systolic BP and reduce salt intake; Urgent care needed for diastolic BP; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+26,140.0,80.0,8.0,98.0,79.0,high risk,Monitor systolic BP and reduce salt intake; Prenatal monitoring recommended
+22,140.0,90.0,7.1,98.0,80.0,high risk,Monitor systolic BP and reduce salt intake; Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+30,150.0,100.0,10.0,98.0,78.0,high risk,Monitor systolic BP and reduce salt intake; Urgent care needed for diastolic BP; Prenatal monitoring recommended
+33,130.0,80.0,12.0,98.0,77.0,high risk,Monitor carbohydrate intake and blood sugar levels; Prenatal monitoring recommended
+29,180.0,100.0,9.7,97.0,88.0,high risk,Urgent medical attention needed for systolic BP; Urgent care needed for diastolic BP; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+24,160.0,100.0,7.8,98.0,90.0,high risk,Urgent medical attention needed for systolic BP; Urgent care needed for diastolic BP; Cardiac evaluation recommended for high heart rate; Prenatal monitoring recommended
+23,100.0,70.0,7.1,98.0,84.0,high risk,Reduce caffeine and monitor heart rate
+34,110.0,80.0,14.0,98.0,88.0,high risk,Monitor carbohydrate intake and blood sugar levels; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+23,130.0,90.0,8.0,98.0,84.0,high risk,Monitor diastolic BP and practice relaxation techniques; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+38,120.0,100.0,17.0,101.0,62.0,high risk,Urgent care needed for diastolic BP; Immediate diabetes screening recommended; Seek immediate treatment for high fever; Prenatal monitoring recommended
+28,110.0,70.0,5.6,98.0,72.0,low risk,All parameters normal - maintain routine prenatal care
+22,120.0,80.0,4.5,98.0,72.0,low risk,All parameters normal - maintain routine prenatal care
+29,110.0,70.0,5.8,98.0,72.0,low risk,All parameters normal - maintain routine prenatal care
+24,110.0,80.0,4.9,98.0,72.0,low risk,All parameters normal - maintain routine prenatal care
+28,140.0,80.0,6.6,98.0,72.0,low risk,Monitor systolic BP and reduce salt intake; Prenatal monitoring recommended
+35,110.0,70.0,6.9,98.0,72.0,low risk,All parameters normal - maintain routine prenatal care
+27,120.0,80.0,6.0,98.0,72.0,low risk,All parameters normal - maintain routine prenatal care
+21,130.0,80.0,5.6,98.0,72.0,low risk,All parameters normal - maintain routine prenatal care
+30,140.0,90.0,6.8,98.0,72.0,low risk,Monitor systolic BP and reduce salt intake; Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+26,100.0,70.0,4.7,98.0,72.0,low risk,All parameters normal - maintain routine prenatal care
+32,110.0,70.0,6.6,98.0,72.0,low risk,All parameters normal - maintain routine prenatal care
+29,100.0,60.0,6.9,98.0,72.0,low risk,Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+21,100.0,70.0,3.6,98.0,72.0,low risk,Check for hypoglycemia symptoms
+23,110.0,70.0,4.1,98.0,72.0,low risk,All parameters normal - maintain routine prenatal care
+28,100.0,70.0,5.3,98.0,72.0,low risk,All parameters normal - maintain routine prenatal care
+30,110.0,60.0,6.9,98.0,72.0,low risk,Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+33,100.0,60.0,7.0,98.0,72.0,low risk,Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+34,100.0,70.0,7.01,98.0,72.0,low risk,All parameters normal - maintain routine prenatal care
+31,110.0,70.0,7.0,98.0,72.0,low risk,All parameters normal - maintain routine prenatal care
+37,110.0,60.0,7.2,98.0,72.0,low risk,Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+35,140.0,80.0,7.0,98.0,72.0,low risk,Monitor systolic BP and reduce salt intake; Prenatal monitoring recommended
+34,120.0,80.0,6.9,98.0,72.0,low risk,All parameters normal - maintain routine prenatal care
+32,120.0,70.0,6.7,98.0,72.0,low risk,All parameters normal - maintain routine prenatal care
+38,110.0,80.0,7.0,98.0,72.0,low risk,All parameters normal - maintain routine prenatal care
+22,110.0,80.0,4.4,98.0,76.0,low risk,All parameters normal - maintain routine prenatal care
+24,120.0,70.0,4.6,98.0,76.0,low risk,All parameters normal - maintain routine prenatal care
+25,120.0,80.0,4.7,98.0,76.0,low risk,All parameters normal - maintain routine prenatal care
+22,110.0,70.0,4.4,98.0,76.0,low risk,All parameters normal - maintain routine prenatal care
+27,110.0,80.0,4.9,98.0,76.0,low risk,All parameters normal - maintain routine prenatal care
+28,100.0,60.0,5.01,98.0,76.0,low risk,Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+21,120.0,70.0,4.1,98.0,76.0,low risk,All parameters normal - maintain routine prenatal care
+28,110.0,70.0,5.7,98.0,76.0,low risk,All parameters normal - maintain routine prenatal care
+26,100.0,60.0,6.02,98.0,76.0,low risk,Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+25,120.0,60.0,5.9,98.0,76.0,low risk,Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+24,100.0,70.0,6.4,98.0,76.0,low risk,All parameters normal - maintain routine prenatal care
+21,110.0,70.0,5.3,98.0,76.0,low risk,All parameters normal - maintain routine prenatal care
+27,100.0,70.0,6.7,98.0,76.0,low risk,All parameters normal - maintain routine prenatal care
+33,100.0,60.0,6.9,98.0,76.0,low risk,Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+31,100.0,60.0,6.6,99.0,76.0,low risk,Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+35,100.0,70.0,7.0,98.0,76.0,low risk,All parameters normal - maintain routine prenatal care
+36,100.0,65.0,7.0,98.0,76.0,low risk,All parameters normal - maintain routine prenatal care
+32,120.0,70.0,6.8,98.0,76.0,low risk,All parameters normal - maintain routine prenatal care
+33,110.0,80.0,6.7,98.0,76.0,low risk,All parameters normal - maintain routine prenatal care
+34,120.0,80.0,6.0,98.0,76.0,low risk,All parameters normal - maintain routine prenatal care
+30,130.0,70.0,6.0,98.0,76.0,low risk,All parameters normal - maintain routine prenatal care
+32,120.0,90.0,6.3,98.0,76.0,low risk,Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+31,115.0,80.0,6.5,98.0,76.0,low risk,All parameters normal - maintain routine prenatal care
+20,120.0,80.0,4.0,98.0,76.0,low risk,Check for hypoglycemia symptoms
+22,110.0,70.0,4.3,98.0,76.0,low risk,All parameters normal - maintain routine prenatal care
+25,130.0,100.0,4.8,98.0,76.0,low risk,Urgent care needed for diastolic BP; Prenatal monitoring recommended
+29,90.0,60.0,5.5,98.0,76.0,low risk,Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+27,100.0,70.0,6.0,98.0,76.0,low risk,All parameters normal - maintain routine prenatal care
+21,100.0,60.0,4.2,98.0,76.0,low risk,Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+18,110.0,60.0,3.9,98.0,76.0,low risk,Consider compression stockings for low diastolic BP; Check for hypoglycemia symptoms; Prenatal monitoring recommended
+17,140.0,80.0,3.6,98.0,76.0,low risk,Adolescent pregnancy requires specialized care; Monitor systolic BP and reduce salt intake; Check for hypoglycemia symptoms; Prenatal monitoring recommended
+33,120.0,60.0,6.0,98.0,76.0,low risk,Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+36,110.0,60.0,6.8,98.0,76.0,low risk,Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+35,140.0,70.0,6.7,98.0,74.0,low risk,Monitor systolic BP and reduce salt intake; Prenatal monitoring recommended
+34,130.0,100.0,6.6,98.0,74.0,low risk,Urgent care needed for diastolic BP; Prenatal monitoring recommended
+30,110.0,70.0,6.3,98.0,74.0,low risk,All parameters normal - maintain routine prenatal care
+41,120.0,90.0,7.0,98.0,74.0,low risk,Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+23,110.0,80.0,4.4,98.0,74.0,low risk,All parameters normal - maintain routine prenatal care
+23,110.0,60.0,4.0,98.0,74.0,low risk,Consider compression stockings for low diastolic BP; Check for hypoglycemia symptoms; Prenatal monitoring recommended
+24,110.0,70.0,5.0,98.0,74.0,low risk,All parameters normal - maintain routine prenatal care
+23,130.0,80.0,5.0,98.0,74.0,low risk,All parameters normal - maintain routine prenatal care
+26,110.0,60.0,5.01,98.0,74.0,low risk,Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+22,120.0,70.0,4.8,98.0,74.0,low risk,All parameters normal - maintain routine prenatal care
+23,120.0,80.0,4.3,98.0,74.0,low risk,All parameters normal - maintain routine prenatal care
+21,100.0,60.0,3.6,98.0,74.0,low risk,Consider compression stockings for low diastolic BP; Check for hypoglycemia symptoms; Prenatal monitoring recommended
+21,120.0,70.0,3.4,98.0,74.0,low risk,Check for hypoglycemia symptoms
+24,120.0,80.0,4.03,98.0,74.0,low risk,All parameters normal - maintain routine prenatal care
+29,100.0,60.0,5.9,98.0,74.0,low risk,Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+26,120.0,70.0,6.0,98.0,74.0,low risk,All parameters normal - maintain routine prenatal care
+25,120.0,80.0,5.6,98.0,74.0,low risk,All parameters normal - maintain routine prenatal care
+28,110.0,70.0,6.04,98.0,74.0,low risk,All parameters normal - maintain routine prenatal care
+29,100.0,60.0,7.0,98.0,74.0,low risk,Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+30,140.0,100.0,6.9,97.0,74.0,low risk,Monitor systolic BP and reduce salt intake; Urgent care needed for diastolic BP; Prenatal monitoring recommended
+32,130.0,80.0,6.7,98.0,74.0,low risk,All parameters normal - maintain routine prenatal care
+28,110.0,80.0,6.4,98.0,74.0,low risk,All parameters normal - maintain routine prenatal care
+27,110.0,60.0,6.3,98.0,74.0,low risk,Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+30,140.0,110.0,6.7,98.0,74.0,low risk,Monitor systolic BP and reduce salt intake; Urgent care needed for diastolic BP; Prenatal monitoring recommended
+26,100.0,70.0,6.2,98.0,74.0,low risk,All parameters normal - maintain routine prenatal care
+22,120.0,85.0,4.1,98.0,74.0,low risk,All parameters normal - maintain routine prenatal care
+27,110.0,70.0,6.5,98.0,74.0,low risk,All parameters normal - maintain routine prenatal care
+20,110.0,80.0,5.0,98.0,74.0,low risk,All parameters normal - maintain routine prenatal care
+25,120.0,90.0,5.7,98.0,74.0,low risk,Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+18,100.0,80.0,3.7,98.0,74.0,low risk,Check for hypoglycemia symptoms
+22,110.0,70.0,3.6,98.0,74.0,low risk,Check for hypoglycemia symptoms
+19,110.0,80.0,3.5,98.0,74.0,low risk,Check for hypoglycemia symptoms
+25,120.0,70.0,4.7,98.0,74.0,low risk,All parameters normal - maintain routine prenatal care
+28,110.0,70.0,6.0,98.0,74.0,low risk,All parameters normal - maintain routine prenatal care
+29,120.0,60.0,7.0,98.0,74.0,low risk,Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+18,120.0,70.0,4.0,98.0,74.0,low risk,Check for hypoglycemia symptoms
+17,120.0,80.0,4.0,98.0,74.0,low risk,Adolescent pregnancy requires specialized care; Check for hypoglycemia symptoms
+37,110.0,70.0,7.0,98.0,74.0,low risk,All parameters normal - maintain routine prenatal care
+28,100.0,65.0,6.7,98.0,74.0,low risk,All parameters normal - maintain routine prenatal care
+26,120.0,90.0,7.0,98.0,74.0,low risk,Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+19,110.0,80.0,3.0,98.0,74.0,low risk,Check for hypoglycemia symptoms
+22,100.0,60.0,4.0,98.0,74.0,low risk,Consider compression stockings for low diastolic BP; Check for hypoglycemia symptoms; Prenatal monitoring recommended
+18,110.0,60.0,5.0,98.0,74.0,low risk,Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+21,100.0,60.0,3.8,98.0,74.0,low risk,Consider compression stockings for low diastolic BP; Check for hypoglycemia symptoms; Prenatal monitoring recommended
+34,130.0,90.0,6.6,98.0,74.0,low risk,Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+19,100.0,79.0,3.3,98.0,74.0,low risk,Check for hypoglycemia symptoms
+25,130.0,90.0,5.5,98.0,74.0,low risk,Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+36,100.0,70.0,6.9,98.0,77.0,low risk,All parameters normal - maintain routine prenatal care
+28,120.0,80.0,6.0,98.0,77.0,low risk,All parameters normal - maintain routine prenatal care
+25,120.0,90.0,5.0,98.0,77.0,low risk,Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+36,100.0,70.0,7.0,98.0,77.0,low risk,All parameters normal - maintain routine prenatal care
+28,120.0,80.0,6.6,98.0,77.0,low risk,All parameters normal - maintain routine prenatal care
+26,130.0,70.0,6.7,98.0,77.0,low risk,All parameters normal - maintain routine prenatal care
+20,100.0,70.0,4.7,98.0,77.0,low risk,All parameters normal - maintain routine prenatal care
+21,110.0,80.0,3.5,98.0,77.0,low risk,Check for hypoglycemia symptoms
+20,120.0,60.0,3.0,98.0,70.0,low risk,Consider compression stockings for low diastolic BP; Check for hypoglycemia symptoms; Prenatal monitoring recommended
+28,120.0,80.0,6.0,98.0,70.0,low risk,All parameters normal - maintain routine prenatal care
+29,140.0,100.0,7.0,98.0,70.0,low risk,Monitor systolic BP and reduce salt intake; Urgent care needed for diastolic BP; Prenatal monitoring recommended
+30,130.0,90.0,7.0,98.0,70.0,low risk,Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+19,120.0,60.0,4.0,98.0,70.0,low risk,Consider compression stockings for low diastolic BP; Check for hypoglycemia symptoms; Prenatal monitoring recommended
+24,100.0,60.0,4.4,98.0,70.0,low risk,Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+28,140.0,110.0,4.9,98.0,70.0,low risk,Monitor systolic BP and reduce salt intake; Urgent care needed for diastolic BP; Prenatal monitoring recommended
+39,110.0,70.0,7.0,98.0,70.0,low risk,All parameters normal - maintain routine prenatal care
+28,100.0,60.0,6.9,98.0,70.0,low risk,Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+24,110.0,60.0,4.1,98.0,70.0,low risk,Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+25,80.0,60.0,4.5,98.0,70.0,low risk,Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+29,120.0,80.0,6.8,98.0,70.0,low risk,All parameters normal - maintain routine prenatal care
+19,120.0,90.0,3.8,98.0,70.0,low risk,Monitor diastolic BP and practice relaxation techniques; Check for hypoglycemia symptoms; Prenatal monitoring recommended
+18,120.0,70.0,3.5,98.0,70.0,low risk,Check for hypoglycemia symptoms
+24,130.0,70.0,4.2,98.0,70.0,low risk,All parameters normal - maintain routine prenatal care
+30,140.0,110.0,6.8,98.0,70.0,low risk,Monitor systolic BP and reduce salt intake; Urgent care needed for diastolic BP; Prenatal monitoring recommended
+18,100.0,60.0,3.0,98.0,70.0,low risk,Consider compression stockings for low diastolic BP; Check for hypoglycemia symptoms; Prenatal monitoring recommended
+30,115.0,85.0,7.0,98.0,70.0,low risk,All parameters normal - maintain routine prenatal care
+36,100.0,70.0,7.0,98.0,70.0,low risk,All parameters normal - maintain routine prenatal care
+18,110.0,70.0,4.0,98.0,70.0,low risk,Check for hypoglycemia symptoms
+25,105.0,75.0,5.0,98.0,70.0,low risk,All parameters normal - maintain routine prenatal care
+31,110.0,80.0,6.0,98.0,72.0,low risk,All parameters normal - maintain routine prenatal care
+39,130.0,80.0,7.0,98.0,72.0,low risk,All parameters normal - maintain routine prenatal care
+28,90.0,60.0,6.7,98.0,72.0,low risk,Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+20,120.0,70.0,3.6,100.0,72.0,low risk,Check for hypoglycemia symptoms; Monitor temperature and stay hydrated
+33,130.0,80.0,5.8,98.0,72.0,low risk,All parameters normal - maintain routine prenatal care
+29,90.0,60.0,6.8,98.0,72.0,low risk,Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+30,120.0,70.0,7.0,98.0,72.0,low risk,All parameters normal - maintain routine prenatal care
+20,130.0,60.0,4.0,98.0,72.0,low risk,Consider compression stockings for low diastolic BP; Check for hypoglycemia symptoms; Prenatal monitoring recommended
+23,100.0,60.0,5.0,98.0,72.0,low risk,Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+19,120.0,60.0,3.5,98.0,77.0,low risk,Consider compression stockings for low diastolic BP; Check for hypoglycemia symptoms; Prenatal monitoring recommended
+31,100.0,70.0,6.9,98.0,77.0,low risk,All parameters normal - maintain routine prenatal care
+25,125.0,80.0,5.5,98.0,77.0,low risk,All parameters normal - maintain routine prenatal care
+37,100.0,70.0,7.0,98.0,77.0,low risk,All parameters normal - maintain routine prenatal care
+21,110.0,80.0,3.3,98.0,77.0,low risk,Check for hypoglycemia symptoms
+20,120.0,70.0,3.5,98.0,77.0,low risk,Check for hypoglycemia symptoms
+32,100.0,60.0,6.6,98.0,77.0,low risk,Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+26,110.0,65.0,6.1,98.0,72.0,low risk,All parameters normal - maintain routine prenatal care
+28,120.0,85.0,6.5,98.0,72.0,low risk,All parameters normal - maintain routine prenatal care
+35,115.0,75.0,7.0,98.0,72.0,low risk,All parameters normal - maintain routine prenatal care
+28,125.0,85.0,5.0,98.0,72.0,low risk,All parameters normal - maintain routine prenatal care
+18,130.0,75.0,3.01,98.0,72.0,low risk,Check for hypoglycemia symptoms
+36,110.0,85.0,6.0,98.0,72.0,low risk,All parameters normal - maintain routine prenatal care
+33,125.0,75.0,5.7,98.0,72.0,low risk,All parameters normal - maintain routine prenatal care
+31,120.0,70.0,6.9,98.0,72.0,low risk,All parameters normal - maintain routine prenatal care
+29,135.0,80.0,6.5,98.0,72.0,low risk,All parameters normal - maintain routine prenatal care
+20,120.0,75.0,5.0,98.0,72.0,low risk,All parameters normal - maintain routine prenatal care
+30,135.0,75.0,6.0,98.0,72.0,low risk,All parameters normal - maintain routine prenatal care
+25,,,5.3,98.0,72.0,low risk,All parameters normal - maintain routine prenatal care
+32,100.0,60.0,6.7,98.0,72.0,low risk,Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+25,120.0,70.0,5.9,98.0,72.0,low risk,All parameters normal - maintain routine prenatal care
+22,120.0,80.0,4.1,98.0,72.0,low risk,All parameters normal - maintain routine prenatal care
+18,120.0,90.0,3.9,98.0,72.0,low risk,Monitor diastolic BP and practice relaxation techniques; Check for hypoglycemia symptoms; Prenatal monitoring recommended
+29,140.0,80.0,6.4,98.0,72.0,low risk,Monitor systolic BP and reduce salt intake; Prenatal monitoring recommended
+28,120.0,60.0,6.0,98.0,72.0,low risk,Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+22,130.0,60.0,4.0,98.0,72.0,low risk,Consider compression stockings for low diastolic BP; Check for hypoglycemia symptoms; Prenatal monitoring recommended
+18,130.0,70.0,3.7,98.0,72.0,low risk,Check for hypoglycemia symptoms
+29,125.0,65.0,6.7,98.0,72.0,low risk,All parameters normal - maintain routine prenatal care
+28,120.0,80.0,6.1,98.0,72.0,low risk,All parameters normal - maintain routine prenatal care
+22,100.0,70.0,4.0,98.0,72.0,low risk,Check for hypoglycemia symptoms
+18,90.0,70.0,3.0,98.0,72.0,low risk,Increase fluid intake for low systolic BP; Check for hypoglycemia symptoms; Prenatal monitoring recommended
+28,100.0,80.0,6.0,98.0,72.0,low risk,All parameters normal - maintain routine prenatal care
+19,115.0,85.0,3.4,98.0,72.0,low risk,Check for hypoglycemia symptoms
+19,120.0,60.0,4.01,98.0,72.0,low risk,Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+28,,,4.6,98.0,72.0,low risk,All parameters normal - maintain routine prenatal care
+21,130.0,90.0,3.9,98.0,72.0,low risk,Monitor diastolic BP and practice relaxation techniques; Check for hypoglycemia symptoms; Prenatal monitoring recommended
+23,110.0,80.0,3.5,98.0,72.0,low risk,Check for hypoglycemia symptoms
+25,100.0,60.0,4.0,98.0,72.0,low risk,Consider compression stockings for low diastolic BP; Check for hypoglycemia symptoms; Prenatal monitoring recommended
+24,110.0,60.0,3.6,99.0,72.0,low risk,Consider compression stockings for low diastolic BP; Check for hypoglycemia symptoms; Prenatal monitoring recommended
+32,115.0,70.0,6.7,98.0,72.0,low risk,All parameters normal - maintain routine prenatal care
+20,140.0,110.0,4.2,98.0,72.0,low risk,Monitor systolic BP and reduce salt intake; Urgent care needed for diastolic BP; Prenatal monitoring recommended
+17,100.0,70.0,3.5,98.0,72.0,low risk,Adolescent pregnancy requires specialized care; Check for hypoglycemia symptoms
+24,110.0,80.0,5.0,98.0,74.0,low risk,All parameters normal - maintain routine prenatal care
+33,120.0,70.0,6.0,98.0,74.0,low risk,All parameters normal - maintain routine prenatal care
+26,120.0,70.0,4.0,98.0,74.0,low risk,Check for hypoglycemia symptoms
+28,140.0,100.0,6.7,98.0,74.0,low risk,Monitor systolic BP and reduce salt intake; Urgent care needed for diastolic BP; Prenatal monitoring recommended
+19,100.0,70.0,3.9,98.0,74.0,low risk,Check for hypoglycemia symptoms
+32,125.0,75.0,6.9,98.0,74.0,low risk,All parameters normal - maintain routine prenatal care
+24,90.0,70.0,4.5,98.0,74.0,low risk,Increase fluid intake for low systolic BP; Prenatal monitoring recommended
+26,120.0,80.0,4.8,98.0,74.0,low risk,All parameters normal - maintain routine prenatal care
+23,120.0,70.0,4.9,98.0,74.0,low risk,All parameters normal - maintain routine prenatal care
+21,130.0,80.0,3.4,98.0,74.0,low risk,Check for hypoglycemia symptoms
+20,130.0,70.0,3.6,98.0,74.0,low risk,Check for hypoglycemia symptoms
+40,100.0,60.0,7.0,98.0,74.0,low risk,Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+39,90.0,60.0,7.0,98.0,74.0,low risk,Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+37,120.0,70.0,6.9,98.0,74.0,low risk,All parameters normal - maintain routine prenatal care
+31,100.0,70.0,6.6,98.0,74.0,low risk,All parameters normal - maintain routine prenatal care
+27,120.0,60.0,5.9,98.0,74.0,low risk,Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+23,110.0,90.0,4.8,98.0,74.0,low risk,Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+22,130.0,95.0,4.4,98.0,74.0,low risk,Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+27,140.0,90.0,5.7,98.0,74.0,low risk,Monitor systolic BP and reduce salt intake; Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+19,130.0,100.0,4.1,98.0,74.0,low risk,Urgent care needed for diastolic BP; Prenatal monitoring recommended
+20,110.0,80.0,4.0,98.0,74.0,low risk,Check for hypoglycemia symptoms
+33,,100.0,6.7,98.0,74.0,low risk,Urgent care needed for diastolic BP; Prenatal monitoring recommended
+32,135.0,95.0,7.0,98.0,74.0,low risk,Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+23,130.0,65.0,5.0,98.0,74.0,low risk,All parameters normal - maintain routine prenatal care
+26,110.0,70.0,5.5,98.0,74.0,low risk,All parameters normal - maintain routine prenatal care
+25,120.0,80.0,5.0,98.0,74.0,low risk,All parameters normal - maintain routine prenatal care
+20,110.0,60.0,4.0,98.0,70.0,low risk,Consider compression stockings for low diastolic BP; Check for hypoglycemia symptoms; Prenatal monitoring recommended
+21,110.0,70.0,4.01,98.0,70.0,low risk,All parameters normal - maintain routine prenatal care
+21,100.0,60.0,3.9,98.0,70.0,low risk,Consider compression stockings for low diastolic BP; Check for hypoglycemia symptoms; Prenatal monitoring recommended
+23,110.0,70.0,4.4,98.0,70.0,low risk,All parameters normal - maintain routine prenatal care
+30,110.0,60.0,5.9,97.0,70.0,low risk,Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+21,110.0,60.0,4.0,98.0,70.0,low risk,Consider compression stockings for low diastolic BP; Check for hypoglycemia symptoms; Prenatal monitoring recommended
+28,110.0,70.0,6.7,98.0,70.0,low risk,All parameters normal - maintain routine prenatal care
+24,120.0,80.0,5.5,98.0,70.0,low risk,All parameters normal - maintain routine prenatal care
+20,110.0,80.0,4.0,98.0,70.0,low risk,Check for hypoglycemia symptoms
+25,100.0,70.0,5.5,98.0,70.0,low risk,All parameters normal - maintain routine prenatal care
+24,100.0,60.0,5.2,98.0,70.0,low risk,Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+30,120.0,80.0,6.0,98.0,70.0,low risk,All parameters normal - maintain routine prenatal care
+28,110.0,80.0,5.7,98.0,70.0,low risk,All parameters normal - maintain routine prenatal care
+24,110.0,60.0,4.8,98.0,70.0,low risk,Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+20,130.0,80.0,3.6,98.0,70.0,low risk,Check for hypoglycemia symptoms
+31,130.0,80.0,6.7,98.0,74.0,low risk,All parameters normal - maintain routine prenatal care
+28,140.0,80.0,7.0,98.0,74.0,low risk,Monitor systolic BP and reduce salt intake; Prenatal monitoring recommended
+22,130.0,90.0,4.0,98.0,74.0,low risk,Monitor diastolic BP and practice relaxation techniques; Check for hypoglycemia symptoms; Prenatal monitoring recommended
+21,120.0,90.0,3.9,98.0,74.0,low risk,Monitor diastolic BP and practice relaxation techniques; Check for hypoglycemia symptoms; Prenatal monitoring recommended
+18,120.0,90.0,3.3,98.0,74.0,low risk,Monitor diastolic BP and practice relaxation techniques; Check for hypoglycemia symptoms; Prenatal monitoring recommended
+30,140.0,90.0,6.6,98.0,74.0,low risk,Monitor systolic BP and reduce salt intake; Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+30,140.0,95.0,7.0,98.0,74.0,low risk,Monitor systolic BP and reduce salt intake; Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+18,140.0,100.0,3.7,98.0,74.0,low risk,Monitor systolic BP and reduce salt intake; Urgent care needed for diastolic BP; Check for hypoglycemia symptoms; Prenatal monitoring recommended
+19,110.0,70.0,3.6,98.0,74.0,low risk,Check for hypoglycemia symptoms
+22,90.0,60.0,4.01,98.0,74.0,low risk,Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+21,110.0,60.0,4.0,98.0,74.0,low risk,Consider compression stockings for low diastolic BP; Check for hypoglycemia symptoms; Prenatal monitoring recommended
+25,100.0,60.0,5.0,98.0,74.0,low risk,Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+32,120.0,70.0,6.0,98.0,74.0,low risk,All parameters normal - maintain routine prenatal care
+28,110.0,60.0,6.1,98.0,74.0,low risk,Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+24,110.0,70.0,5.3,98.0,74.0,low risk,All parameters normal - maintain routine prenatal care
+23,130.0,70.0,5.2,98.0,74.0,low risk,All parameters normal - maintain routine prenatal care
+29,85.0,65.0,6.0,98.0,72.0,low risk,Increase fluid intake for low systolic BP; Prenatal monitoring recommended
+21,95.0,65.0,4.9,98.0,72.0,low risk,All parameters normal - maintain routine prenatal care
+34,110.0,70.0,7.0,98.0,72.0,low risk,All parameters normal - maintain routine prenatal care
+30,140.0,100.0,6.9,98.0,72.0,low risk,Monitor systolic BP and reduce salt intake; Urgent care needed for diastolic BP; Prenatal monitoring recommended
+17,110.0,60.0,3.4,98.0,72.0,low risk,Adolescent pregnancy requires specialized care; Consider compression stockings for low diastolic BP; Check for hypoglycemia symptoms; Prenatal monitoring recommended
+30,100.0,60.0,6.0,98.0,72.0,low risk,Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+27,120.0,60.0,5.6,98.0,72.0,low risk,Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+20,120.0,70.0,4.0,98.0,72.0,low risk,Check for hypoglycemia symptoms
+23,120.0,70.0,4.4,99.0,72.0,low risk,All parameters normal - maintain routine prenatal care
+18,110.0,70.0,3.7,98.0,72.0,low risk,Check for hypoglycemia symptoms
+30,105.0,65.0,7.0,98.0,72.0,low risk,All parameters normal - maintain routine prenatal care
+25,115.0,75.0,5.9,98.0,72.0,low risk,All parameters normal - maintain routine prenatal care
+20,110.0,60.0,4.0,98.0,72.0,low risk,Consider compression stockings for low diastolic BP; Check for hypoglycemia symptoms; Prenatal monitoring recommended
+25,130.0,80.0,4.4,98.0,72.0,low risk,All parameters normal - maintain routine prenatal care
+30,140.0,90.0,6.0,98.0,72.0,low risk,Monitor systolic BP and reduce salt intake; Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+25,140.0,90.0,5.5,98.0,72.0,low risk,Monitor systolic BP and reduce salt intake; Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+29,140.0,90.0,6.9,98.0,72.0,low risk,Monitor systolic BP and reduce salt intake; Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+25,140.0,100.0,5.7,98.0,72.0,low risk,Monitor systolic BP and reduce salt intake; Urgent care needed for diastolic BP; Prenatal monitoring recommended
+27,130.0,100.0,5.6,98.0,72.0,low risk,Urgent care needed for diastolic BP; Prenatal monitoring recommended
+23,120.0,85.0,4.9,98.0,72.0,low risk,All parameters normal - maintain routine prenatal care
+22,160.0,120.0,4.1,98.0,72.0,low risk,Urgent medical attention needed for systolic BP; Urgent care needed for diastolic BP; Prenatal monitoring recommended
+19,100.0,60.0,3.9,98.0,72.0,low risk,Consider compression stockings for low diastolic BP; Check for hypoglycemia symptoms; Prenatal monitoring recommended
+24,110.0,70.0,4.3,98.0,70.0,low risk,All parameters normal - maintain routine prenatal care
+28,120.0,80.0,5.7,98.0,70.0,low risk,All parameters normal - maintain routine prenatal care
+36,120.0,80.0,7.0,98.0,70.0,low risk,All parameters normal - maintain routine prenatal care
+33,130.0,75.0,6.8,98.0,70.0,low risk,All parameters normal - maintain routine prenatal care
+28,110.0,70.0,5.07,98.0,70.0,low risk,All parameters normal - maintain routine prenatal care
+36,140.0,90.0,6.09,97.0,70.0,low risk,Monitor systolic BP and reduce salt intake; Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+28,130.0,80.0,6.6,98.0,70.0,low risk,All parameters normal - maintain routine prenatal care
+26,125.0,75.0,6.0,98.0,70.0,low risk,All parameters normal - maintain routine prenatal care
+30,115.0,75.0,7.0,98.0,70.0,low risk,All parameters normal - maintain routine prenatal care
+18,120.0,80.0,3.0,98.0,70.0,low risk,Check for hypoglycemia symptoms
+29,110.0,70.0,6.0,98.0,70.0,low risk,All parameters normal - maintain routine prenatal care
+21,90.0,60.0,5.0,98.0,70.0,low risk,Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+325,100.0,65.0,6.1,98.0,66.0,low risk,Consider geriatric pregnancy consultation
+35,100.0,70.0,6.1,98.0,66.0,low risk,All parameters normal - maintain routine prenatal care
+22,120.0,85.0,6.1,98.0,88.0,low risk,Reduce caffeine and monitor heart rate
+23,120.0,90.0,6.1,98.0,60.0,low risk,Monitor diastolic BP and practice relaxation techniques; Medical evaluation for low heart rate; Prenatal monitoring recommended
+25,90.0,70.0,6.1,98.0,80.0,low risk,Increase fluid intake for low systolic BP; Prenatal monitoring recommended
+30,120.0,80.0,6.1,98.0,70.0,low risk,All parameters normal - maintain routine prenatal care
+23,120.0,90.0,6.1,98.0,70.0,low risk,Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+32,120.0,90.0,7.5,98.0,70.0,low risk,Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+42,120.0,80.0,7.5,98.0,70.0,low risk,All parameters normal - maintain routine prenatal care
+23,90.0,60.0,7.5,98.0,76.0,low risk,Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+15,76.0,49.0,7.5,98.0,77.0,low risk,Adolescent pregnancy requires specialized care; Increase fluid intake for low systolic BP; Medical evaluation needed for low diastolic BP; Prenatal monitoring recommended
+15,120.0,80.0,7.0,98.0,70.0,low risk,Adolescent pregnancy requires specialized care
+25,120.0,80.0,7.0,98.0,66.0,low risk,All parameters normal - maintain routine prenatal care
+22,100.0,65.0,7.0,98.0,80.0,low risk,All parameters normal - maintain routine prenatal care
+35,100.0,70.0,7.0,98.0,60.0,low risk,Medical evaluation for low heart rate
+19,120.0,85.0,7.0,98.0,60.0,low risk,Medical evaluation for low heart rate
+25,120.0,80.0,6.8,98.0,66.0,low risk,All parameters normal - maintain routine prenatal care
+48,140.0,90.0,15.0,98.0,90.0,low risk,Monitor systolic BP and reduce salt intake; Monitor diastolic BP and practice relaxation techniques; Immediate diabetes screening recommended; Cardiac evaluation recommended for high heart rate; Prenatal monitoring recommended
+25,140.0,100.0,6.8,98.0,80.0,low risk,Monitor systolic BP and reduce salt intake; Urgent care needed for diastolic BP; Prenatal monitoring recommended
+19,120.0,60.0,5.01,98.0,74.0,low risk,Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+23,140.0,90.0,9.8,98.0,80.0,high risk,Monitor systolic BP and reduce salt intake; Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+34,85.0,60.0,11.0,102.0,86.0,high risk,Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Seek immediate treatment for high fever; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+50,140.0,90.0,15.0,98.0,90.0,high risk,Monitor systolic BP and reduce salt intake; Monitor diastolic BP and practice relaxation techniques; Immediate diabetes screening recommended; Cardiac evaluation recommended for high heart rate; Prenatal monitoring recommended
+25,140.0,100.0,6.8,98.0,80.0,high risk,Monitor systolic BP and reduce salt intake; Urgent care needed for diastolic BP; Prenatal monitoring recommended
+42,140.0,100.0,18.0,98.0,90.0,high risk,Monitor systolic BP and reduce salt intake; Urgent care needed for diastolic BP; Immediate diabetes screening recommended; Cardiac evaluation recommended for high heart rate; Prenatal monitoring recommended
+32,140.0,100.0,7.9,98.0,78.0,high risk,Monitor systolic BP and reduce salt intake; Urgent care needed for diastolic BP; Prenatal monitoring recommended
+50,140.0,95.0,17.0,98.0,60.0,high risk,Monitor systolic BP and reduce salt intake; Monitor diastolic BP and practice relaxation techniques; Immediate diabetes screening recommended; Medical evaluation for low heart rate; Prenatal monitoring recommended
+38,135.0,60.0,7.9,101.0,86.0,high risk,Consider compression stockings for low diastolic BP; Seek immediate treatment for high fever; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+39,90.0,70.0,9.0,98.0,80.0,high risk,Increase fluid intake for low systolic BP; Prenatal monitoring recommended
+30,140.0,100.0,15.0,98.0,70.0,high risk,Monitor systolic BP and reduce salt intake; Urgent care needed for diastolic BP; Immediate diabetes screening recommended; Prenatal monitoring recommended
+63,140.0,90.0,15.0,98.0,90.0,high risk,Monitor systolic BP and reduce salt intake; Monitor diastolic BP and practice relaxation techniques; Immediate diabetes screening recommended; Cardiac evaluation recommended for high heart rate; Prenatal monitoring recommended
+25,140.0,100.0,7.9,98.0,80.0,high risk,Monitor systolic BP and reduce salt intake; Urgent care needed for diastolic BP; Prenatal monitoring recommended
+30,120.0,80.0,7.9,101.0,76.0,high risk,Seek immediate treatment for high fever
+55,140.0,100.0,18.0,98.0,90.0,high risk,Monitor systolic BP and reduce salt intake; Urgent care needed for diastolic BP; Immediate diabetes screening recommended; Cardiac evaluation recommended for high heart rate; Prenatal monitoring recommended
+48,120.0,80.0,11.0,98.0,88.0,high risk,Reduce caffeine and monitor heart rate
+49,140.0,90.0,15.0,98.0,90.0,high risk,Monitor systolic BP and reduce salt intake; Monitor diastolic BP and practice relaxation techniques; Immediate diabetes screening recommended; Cardiac evaluation recommended for high heart rate; Prenatal monitoring recommended
+25,140.0,100.0,7.5,98.0,80.0,high risk,Monitor systolic BP and reduce salt intake; Urgent care needed for diastolic BP; Prenatal monitoring recommended
+55,129.0,85.0,7.5,98.0,88.0,low risk,Reduce caffeine and monitor heart rate
+25,100.0,90.0,7.5,98.0,76.0,low risk,Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+35,120.0,80.0,7.5,98.0,80.0,low risk,All parameters normal - maintain routine prenatal care
+21,90.0,65.0,7.5,98.0,76.0,low risk,Increase fluid intake for low systolic BP; Prenatal monitoring recommended
+18,90.0,60.0,7.5,98.0,70.0,low risk,Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+21,120.0,80.0,7.5,98.0,76.0,low risk,All parameters normal - maintain routine prenatal care
+16,100.0,70.0,7.2,98.0,80.0,low risk,Adolescent pregnancy requires specialized care
+19,120.0,75.0,7.2,98.0,66.0,low risk,All parameters normal - maintain routine prenatal care
+28,115.0,60.0,7.8,101.0,86.0,low risk,Consider compression stockings for low diastolic BP; Seek immediate treatment for high fever; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+50,120.0,80.0,7.8,98.0,70.0,low risk,All parameters normal - maintain routine prenatal care
+19,90.0,70.0,7.8,98.0,80.0,low risk,Increase fluid intake for low systolic BP; Prenatal monitoring recommended
+30,120.0,80.0,7.8,98.0,70.0,low risk,All parameters normal - maintain routine prenatal care
+31,120.0,60.0,6.1,98.0,76.0,low risk,Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+23,120.0,70.0,7.8,98.0,70.0,low risk,All parameters normal - maintain routine prenatal care
+29,130.0,70.0,7.8,98.0,78.0,low risk,All parameters normal - maintain routine prenatal care
+32,120.0,90.0,7.8,98.0,70.0,low risk,Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+42,120.0,80.0,7.8,98.0,70.0,low risk,All parameters normal - maintain routine prenatal care
+23,90.0,60.0,7.8,98.0,76.0,low risk,Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+19,120.0,80.0,7.0,98.0,70.0,low risk,All parameters normal - maintain routine prenatal care
+15,76.0,49.0,7.8,98.0,77.0,low risk,Adolescent pregnancy requires specialized care; Increase fluid intake for low systolic BP; Medical evaluation needed for low diastolic BP; Prenatal monitoring recommended
+20,120.0,75.0,7.8,98.0,70.0,low risk,All parameters normal - maintain routine prenatal care
+15,120.0,80.0,7.8,98.0,70.0,low risk,Adolescent pregnancy requires specialized care
+25,120.0,80.0,7.8,98.0,66.0,low risk,All parameters normal - maintain routine prenatal care
+22,100.0,65.0,7.8,98.0,80.0,low risk,All parameters normal - maintain routine prenatal care
+12,120.0,95.0,7.8,98.0,68.0,low risk,Adolescent pregnancy requires specialized care; Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+35,100.0,70.0,7.8,98.0,70.0,low risk,All parameters normal - maintain routine prenatal care
+19,120.0,85.0,7.8,102.0,60.0,high risk,Seek immediate treatment for high fever; Medical evaluation for low heart rate
+60,90.0,65.0,6.8,98.0,77.0,low risk,Increase fluid intake for low systolic BP; Prenatal monitoring recommended
+23,115.0,75.0,4.8,98.0,72.0,low risk,All parameters normal - maintain routine prenatal care
+33,130.0,90.0,6.0,97.0,74.0,low risk,Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+22,100.0,65.0,4.8,98.0,88.0,low risk,Reduce caffeine and monitor heart rate
+32,120.0,95.0,6.8,98.0,68.0,low risk,Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+35,100.0,70.0,6.8,98.0,66.0,low risk,All parameters normal - maintain routine prenatal care
+19,120.0,90.0,6.8,98.0,72.0,low risk,Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+55,120.0,90.0,6.8,98.0,78.0,low risk,Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+50,130.0,100.0,16.0,102.0,86.0,high risk,Urgent care needed for diastolic BP; Immediate diabetes screening recommended; Seek immediate treatment for high fever; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+27,120.0,90.0,6.8,98.0,68.0,low risk,Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+60,140.0,90.0,12.0,98.0,87.0,high risk,Monitor systolic BP and reduce salt intake; Monitor diastolic BP and practice relaxation techniques; Monitor carbohydrate intake and blood sugar levels; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+55,100.0,70.0,6.8,98.0,76.0,low risk,All parameters normal - maintain routine prenatal care
+60,140.0,80.0,16.0,98.0,60.0,high risk,Monitor systolic BP and reduce salt intake; Immediate diabetes screening recommended; Medical evaluation for low heart rate; Prenatal monitoring recommended
+19,120.0,90.0,5.0,102.0,90.0,high risk,Monitor diastolic BP and practice relaxation techniques; Seek immediate treatment for high fever; Cardiac evaluation recommended for high heart rate; Prenatal monitoring recommended
+17,140.0,100.0,6.8,103.0,86.0,high risk,Adolescent pregnancy requires specialized care; Monitor systolic BP and reduce salt intake; Urgent care needed for diastolic BP; Seek immediate treatment for high fever; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+60,120.0,80.0,6.8,98.0,77.0,low risk,All parameters normal - maintain routine prenatal care
+22,100.0,65.0,6.8,98.0,80.0,low risk,All parameters normal - maintain routine prenatal care
+36,140.0,100.0,13.0,102.0,86.0,high risk,Monitor systolic BP and reduce salt intake; Urgent care needed for diastolic BP; Monitor carbohydrate intake and blood sugar levels; Seek immediate treatment for high fever; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+22,90.0,60.0,6.8,98.0,77.0,low risk,Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+25,120.0,100.0,6.8,98.0,66.0,low risk,Urgent care needed for diastolic BP; Prenatal monitoring recommended
+35,100.0,60.0,15.0,98.0,80.0,high risk,Consider compression stockings for low diastolic BP; Immediate diabetes screening recommended; Prenatal monitoring recommended
+40,140.0,100.0,13.0,101.0,66.0,high risk,Monitor systolic BP and reduce salt intake; Urgent care needed for diastolic BP; Monitor carbohydrate intake and blood sugar levels; Seek immediate treatment for high fever; Prenatal monitoring recommended
+27,120.0,70.0,6.8,98.0,77.0,low risk,All parameters normal - maintain routine prenatal care
+36,140.0,100.0,6.8,98.0,76.0,low risk,Monitor systolic BP and reduce salt intake; Urgent care needed for diastolic BP; Prenatal monitoring recommended
+65,130.0,80.0,15.0,98.0,86.0,high risk,Immediate diabetes screening recommended; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+35,140.0,80.0,13.0,98.0,80.0,high risk,Monitor systolic BP and reduce salt intake; Monitor carbohydrate intake and blood sugar levels; Prenatal monitoring recommended
+29,90.0,70.0,10.0,98.0,80.0,high risk,Increase fluid intake for low systolic BP; Prenatal monitoring recommended
+30,120.0,80.0,6.8,98.0,70.0,low risk,All parameters normal - maintain routine prenatal care
+35,120.0,60.0,6.1,98.0,76.0,low risk,Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+23,140.0,90.0,6.8,98.0,70.0,low risk,Monitor systolic BP and reduce salt intake; Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+23,130.0,70.0,6.8,98.0,78.0,low risk,All parameters normal - maintain routine prenatal care
+35,85.0,60.0,11.0,102.0,86.0,high risk,Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Seek immediate treatment for high fever; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+32,120.0,90.0,6.8,98.0,70.0,low risk,Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+43,130.0,80.0,18.0,98.0,60.0,high risk,Immediate diabetes screening recommended; Medical evaluation for low heart rate; Prenatal monitoring recommended
+23,99.0,60.0,6.8,98.0,76.0,low risk,Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+19,120.0,80.0,5.0,98.0,70.0,low risk,All parameters normal - maintain routine prenatal care
+15,76.0,49.0,4.9,98.0,77.0,low risk,Adolescent pregnancy requires specialized care; Increase fluid intake for low systolic BP; Medical evaluation needed for low diastolic BP; Prenatal monitoring recommended
+30,120.0,75.0,6.8,98.0,70.0,low risk,All parameters normal - maintain routine prenatal care
+48,120.0,80.0,11.0,98.0,,high risk,All parameters normal - maintain routine prenatal care
+15,120.0,80.0,6.8,98.0,70.0,low risk,Adolescent pregnancy requires specialized care
+48,140.0,90.0,15.0,98.0,90.0,high risk,Monitor systolic BP and reduce salt intake; Monitor diastolic BP and practice relaxation techniques; Immediate diabetes screening recommended; Cardiac evaluation recommended for high heart rate; Prenatal monitoring recommended
+29,100.0,70.0,6.8,98.0,80.0,low risk,All parameters normal - maintain routine prenatal care
+32,120.0,80.0,6.8,98.0,70.0,low risk,All parameters normal - maintain routine prenatal care
+42,130.0,80.0,18.0,98.0,78.0,high risk,Immediate diabetes screening recommended; Prenatal monitoring recommended
+23,90.0,60.0,6.8,98.0,76.0,low risk,Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+19,120.0,80.0,4.0,98.0,70.0,low risk,Check for hypoglycemia symptoms
+15,76.0,49.0,3.6,98.0,77.0,low risk,Adolescent pregnancy requires specialized care; Increase fluid intake for low systolic BP; Medical evaluation needed for low diastolic BP; Check for hypoglycemia symptoms; Prenatal monitoring recommended
+20,120.0,75.0,6.8,98.0,70.0,low risk,All parameters normal - maintain routine prenatal care
+48,120.0,80.0,11.0,98.0,78.0,low risk,All parameters normal - maintain routine prenatal care
+23,120.0,60.0,4.1,98.0,72.0,low risk,Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+30,120.0,80.0,6.9,98.0,76.0,low risk,All parameters normal - maintain routine prenatal care
+18,120.0,80.0,6.9,98.0,76.0,low risk,All parameters normal - maintain routine prenatal care
+17,90.0,60.0,6.9,98.0,76.0,low risk,Adolescent pregnancy requires specialized care; Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+17,90.0,63.0,6.9,98.0,70.0,low risk,Adolescent pregnancy requires specialized care; Increase fluid intake for low systolic BP; Prenatal monitoring recommended
+25,120.0,90.0,6.7,98.0,70.0,low risk,Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+17,120.0,80.0,6.7,98.0,76.0,low risk,Adolescent pregnancy requires specialized care
+13,90.0,65.0,7.9,98.0,80.0,low risk,Adolescent pregnancy requires specialized care; Increase fluid intake for low systolic BP; Prenatal monitoring recommended
+29,130.0,70.0,6.1,98.0,78.0,low risk,All parameters normal - maintain routine prenatal care
+28,85.0,60.0,6.0,97.0,86.0,low risk,Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+50,140.0,80.0,6.7,98.0,70.0,low risk,Monitor systolic BP and reduce salt intake; Prenatal monitoring recommended
+29,90.0,70.0,6.7,98.0,80.0,low risk,Increase fluid intake for low systolic BP; Prenatal monitoring recommended
+29,130.0,70.0,6.7,98.0,78.0,low risk,All parameters normal - maintain routine prenatal care
+17,85.0,60.0,4.0,102.0,76.0,low risk,Adolescent pregnancy requires specialized care; Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Check for hypoglycemia symptoms; Seek immediate treatment for high fever; Prenatal monitoring recommended
+20,110.0,60.0,7.0,100.0,70.0,low risk,Consider compression stockings for low diastolic BP; Monitor temperature and stay hydrated; Prenatal monitoring recommended
+20,120.0,75.0,7.01,100.0,70.0,low risk,Monitor temperature and stay hydrated
+25,120.0,90.0,6.7,98.0,80.0,low risk,Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+17,120.0,80.0,6.7,102.0,76.0,low risk,Adolescent pregnancy requires specialized care; Seek immediate treatment for high fever
+13,90.0,65.0,7.9,101.0,80.0,low risk,Adolescent pregnancy requires specialized care; Increase fluid intake for low systolic BP; Seek immediate treatment for high fever; Prenatal monitoring recommended
+28,85.0,60.0,9.0,101.0,86.0,high risk,Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Seek immediate treatment for high fever; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+17,85.0,60.0,9.0,102.0,86.0,high risk,Adolescent pregnancy requires specialized care; Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Seek immediate treatment for high fever; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+32,120.0,65.0,6.0,101.0,76.0,low risk,Seek immediate treatment for high fever
+26,85.0,60.0,6.0,101.0,70.0,low risk,Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Seek immediate treatment for high fever; Prenatal monitoring recommended
+29,130.0,70.0,7.7,98.0,78.0,low risk,All parameters normal - maintain routine prenatal care
+54,130.0,70.0,12.0,98.0,67.0,low risk,Monitor carbohydrate intake and blood sugar levels; Prenatal monitoring recommended
+44,120.0,90.0,16.0,98.0,89.0,high risk,Monitor diastolic BP and practice relaxation techniques; Immediate diabetes screening recommended; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+23,130.0,70.0,6.9,98.0,70.0,low risk,All parameters normal - maintain routine prenatal care
+22,85.0,60.0,6.9,98.0,76.0,low risk,Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+55,120.0,90.0,7.0,98.0,70.0,low risk,Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+35,120.0,80.0,6.9,98.0,78.0,low risk,All parameters normal - maintain routine prenatal care
+21,90.0,60.0,6.9,98.0,86.0,low risk,Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+16,90.0,65.0,6.9,98.0,76.0,low risk,Adolescent pregnancy requires specialized care; Increase fluid intake for low systolic BP; Prenatal monitoring recommended
+33,115.0,65.0,7.0,98.0,70.0,low risk,All parameters normal - maintain routine prenatal care
+12,95.0,60.0,6.9,98.0,65.0,low risk,Adolescent pregnancy requires specialized care; Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+28,120.0,90.0,6.9,98.0,70.0,low risk,Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+21,90.0,65.0,6.9,98.0,76.0,low risk,Increase fluid intake for low systolic BP; Prenatal monitoring recommended
+18,90.0,60.0,6.9,98.0,70.0,low risk,Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+21,120.0,80.0,6.9,98.0,76.0,low risk,All parameters normal - maintain routine prenatal care
+16,100.0,70.0,6.9,98.0,80.0,low risk,Adolescent pregnancy requires specialized care
+19,120.0,75.0,6.9,98.0,66.0,low risk,All parameters normal - maintain routine prenatal care
+23,100.0,85.0,6.9,98.0,66.0,low risk,All parameters normal - maintain routine prenatal care
+22,120.0,90.0,7.8,98.0,82.0,low risk,Monitor diastolic BP and practice relaxation techniques; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+60,120.0,85.0,15.0,98.0,60.0,high risk,Immediate diabetes screening recommended; Medical evaluation for low heart rate; Prenatal monitoring recommended
+13,90.0,65.0,6.8,101.0,80.0,low risk,Adolescent pregnancy requires specialized care; Increase fluid intake for low systolic BP; Seek immediate treatment for high fever; Prenatal monitoring recommended
+23,120.0,90.0,6.8,98.0,60.0,low risk,Monitor diastolic BP and practice relaxation techniques; Medical evaluation for low heart rate; Prenatal monitoring recommended
+28,115.0,60.0,6.8,101.0,76.0,low risk,Consider compression stockings for low diastolic BP; Seek immediate treatment for high fever; Prenatal monitoring recommended
+50,120.0,80.0,6.8,98.0,70.0,low risk,All parameters normal - maintain routine prenatal care
+29,130.0,70.0,6.8,98.0,78.0,low risk,All parameters normal - maintain routine prenatal care
+19,120.0,85.0,7.8,98.0,60.0,low risk,Medical evaluation for low heart rate
+55,120.0,90.0,6.8,98.0,66.0,low risk,Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+12,120.0,95.0,6.8,98.0,60.0,low risk,Adolescent pregnancy requires specialized care; Monitor diastolic BP and practice relaxation techniques; Medical evaluation for low heart rate; Prenatal monitoring recommended
+19,120.0,90.0,6.8,98.0,60.0,low risk,Monitor diastolic BP and practice relaxation techniques; Medical evaluation for low heart rate; Prenatal monitoring recommended
+50,130.0,80.0,16.0,102.0,88.0,high risk,Immediate diabetes screening recommended; Seek immediate treatment for high fever; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+27,120.0,90.0,6.8,102.0,68.0,low risk,Monitor diastolic BP and practice relaxation techniques; Seek immediate treatment for high fever; Prenatal monitoring recommended
+55,100.0,70.0,6.8,101.0,80.0,low risk,Seek immediate treatment for high fever
+12,120.0,90.0,6.8,98.0,80.0,low risk,Adolescent pregnancy requires specialized care; Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+25,120.0,100.0,6.8,98.0,60.0,low risk,Urgent care needed for diastolic BP; Medical evaluation for low heart rate; Prenatal monitoring recommended
+42,130.0,80.0,18.0,98.0,88.0,high risk,Immediate diabetes screening recommended; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+31,110.0,90.0,6.8,100.0,70.0,low risk,Monitor diastolic BP and practice relaxation techniques; Monitor temperature and stay hydrated; Prenatal monitoring recommended
+25,120.0,80.0,6.9,98.0,66.0,low risk,All parameters normal - maintain routine prenatal care
+23,120.0,90.0,6.9,98.0,70.0,low risk,Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+29,130.0,70.0,6.9,98.0,78.0,low risk,All parameters normal - maintain routine prenatal care
+18,120.0,80.0,5.9,102.0,76.0,low risk,Seek immediate treatment for high fever
+18,85.0,60.0,5.5,101.0,76.0,low risk,Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Seek immediate treatment for high fever; Prenatal monitoring recommended
+29,130.0,70.0,5.5,98.0,78.0,low risk,All parameters normal - maintain routine prenatal care
+23,120.0,75.0,6.0,98.0,70.0,low risk,All parameters normal - maintain routine prenatal care
+15,120.0,80.0,7.5,98.0,70.0,low risk,Adolescent pregnancy requires specialized care
+30,120.0,80.0,7.5,101.0,76.0,low risk,Seek immediate treatment for high fever
+40,120.0,95.0,6.9,98.0,70.0,low risk,Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+50,130.0,100.0,16.0,98.0,85.0,high risk,Urgent care needed for diastolic BP; Immediate diabetes screening recommended; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+28,115.0,60.0,7.5,101.0,76.0,low risk,Consider compression stockings for low diastolic BP; Seek immediate treatment for high fever; Prenatal monitoring recommended
+23,120.0,80.0,6.5,98.0,70.0,low risk,All parameters normal - maintain routine prenatal care
+29,130.0,70.0,6.5,98.0,78.0,low risk,All parameters normal - maintain routine prenatal care
+22,100.0,65.0,6.5,98.0,70.0,low risk,All parameters normal - maintain routine prenatal care
+49,120.0,90.0,6.5,98.0,77.0,low risk,Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+28,90.0,60.0,6.5,98.0,72.0,low risk,Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+12,90.0,60.0,6.5,102.0,66.0,low risk,Adolescent pregnancy requires specialized care; Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Seek immediate treatment for high fever; Prenatal monitoring recommended
+20,100.0,90.0,6.5,98.0,68.0,low risk,Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+23,100.0,85.0,6.5,98.0,66.0,low risk,All parameters normal - maintain routine prenatal care
+22,120.0,90.0,6.5,98.0,72.0,low risk,Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+21,120.0,80.0,7.5,98.0,77.0,low risk,All parameters normal - maintain routine prenatal care
+60,120.0,80.0,7.5,98.0,75.0,low risk,All parameters normal - maintain routine prenatal care
+17,90.0,65.0,7.5,103.0,67.0,high risk,Adolescent pregnancy requires specialized care; Increase fluid intake for low systolic BP; Seek immediate treatment for high fever; Prenatal monitoring recommended
+29,130.0,70.0,7.5,98.0,78.0,low risk,All parameters normal - maintain routine prenatal care
+19,120.0,85.0,4.0,98.0,60.0,low risk,Check for hypoglycemia symptoms; Medical evaluation for low heart rate
+30,90.0,65.0,7.0,98.0,77.0,low risk,Increase fluid intake for low systolic BP; Prenatal monitoring recommended
+28,85.0,60.0,6.0,101.0,68.0,low risk,Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Seek immediate treatment for high fever; Prenatal monitoring recommended
+50,120.0,80.0,7.0,98.0,70.0,low risk,All parameters normal - maintain routine prenatal care
+39,110.0,70.0,6.9,98.0,80.0,low risk,All parameters normal - maintain routine prenatal care
+29,130.0,70.0,6.0,98.0,78.0,low risk,All parameters normal - maintain routine prenatal care
+17,90.0,60.0,5.0,102.0,78.0,low risk,Adolescent pregnancy requires specialized care; Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Seek immediate treatment for high fever; Prenatal monitoring recommended
+32,120.0,90.0,7.0,100.0,70.0,low risk,Monitor diastolic BP and practice relaxation techniques; Monitor temperature and stay hydrated; Prenatal monitoring recommended
+42,120.0,90.0,6.0,98.0,70.0,low risk,Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+36,120.0,90.0,7.0,98.0,72.0,low risk,Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+30,120.0,80.0,7.1,101.0,76.0,low risk,Seek immediate treatment for high fever
+15,70.0,50.0,6.0,98.0,70.0,low risk,Adolescent pregnancy requires specialized care; Medical evaluation needed for low systolic BP; Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+10,100.0,50.0,6.0,99.0,70.0,low risk,Adolescent pregnancy requires specialized care; Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+12,100.0,50.0,6.4,98.0,70.0,low risk,Adolescent pregnancy requires specialized care; Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+12,100.0,50.0,6.0,98.0,70.0,low risk,Adolescent pregnancy requires specialized care; Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+23,130.0,70.0,7.01,98.0,78.0,low risk,All parameters normal - maintain routine prenatal care
+32,120.0,90.0,6.9,98.0,70.0,low risk,Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+48,120.0,80.0,7.0,98.0,70.0,low risk,All parameters normal - maintain routine prenatal care
+30,120.0,80.0,6.9,101.0,76.0,low risk,Seek immediate treatment for high fever
+18,120.0,80.0,6.9,102.0,76.0,low risk,Seek immediate treatment for high fever
+17,90.0,60.0,6.9,101.0,76.0,low risk,Adolescent pregnancy requires specialized care; Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Seek immediate treatment for high fever; Prenatal monitoring recommended
+17,90.0,63.0,6.9,101.0,70.0,low risk,Adolescent pregnancy requires specialized care; Increase fluid intake for low systolic BP; Seek immediate treatment for high fever; Prenatal monitoring recommended
+25,120.0,90.0,6.7,101.0,80.0,low risk,Monitor diastolic BP and practice relaxation techniques; Seek immediate treatment for high fever; Prenatal monitoring recommended
+28,85.0,60.0,9.0,101.0,76.0,low risk,Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Seek immediate treatment for high fever; Prenatal monitoring recommended
+20,110.0,60.0,3.9,100.0,70.0,low risk,Consider compression stockings for low diastolic BP; Check for hypoglycemia symptoms; Monitor temperature and stay hydrated; Prenatal monitoring recommended
+15,76.0,49.0,6.8,98.0,77.0,low risk,Adolescent pregnancy requires specialized care; Increase fluid intake for low systolic BP; Medical evaluation needed for low diastolic BP; Prenatal monitoring recommended
+48,120.0,80.0,5.9,98.0,77.0,low risk,All parameters normal - maintain routine prenatal care
+30,120.0,80.0,6.8,101.0,76.0,low risk,Seek immediate treatment for high fever
+18,120.0,80.0,6.8,102.0,76.0,low risk,Seek immediate treatment for high fever
+17,90.0,60.0,6.8,101.0,76.0,low risk,Adolescent pregnancy requires specialized care; Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Seek immediate treatment for high fever; Prenatal monitoring recommended
+19,120.0,75.0,6.8,98.0,70.0,low risk,All parameters normal - maintain routine prenatal care
+15,120.0,80.0,5.9,98.0,70.0,low risk,Adolescent pregnancy requires specialized care
+22,100.0,65.0,4.9,98.0,80.0,low risk,All parameters normal - maintain routine prenatal care
+35,100.0,70.0,6.9,98.0,60.0,low risk,Medical evaluation for low heart rate
+60,90.0,65.0,7.0,98.0,77.0,low risk,Increase fluid intake for low systolic BP; Prenatal monitoring recommended
+17,,60.0,4.0,102.0,76.0,low risk,Adolescent pregnancy requires specialized care; Consider compression stockings for low diastolic BP; Check for hypoglycemia symptoms; Seek immediate treatment for high fever; Prenatal monitoring recommended
+42,120.0,80.0,7.0,98.0,70.0,low risk,All parameters normal - maintain routine prenatal care
+23,90.0,60.0,4.7,98.0,76.0,low risk,Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+15,76.0,49.0,3.9,98.0,77.0,low risk,Adolescent pregnancy requires specialized care; Increase fluid intake for low systolic BP; Medical evaluation needed for low diastolic BP; Check for hypoglycemia symptoms; Prenatal monitoring recommended
+16,120.0,75.0,4.0,98.0,74.0,low risk,Adolescent pregnancy requires specialized care; Check for hypoglycemia symptoms
+15,120.0,80.0,4.01,98.0,70.0,low risk,Adolescent pregnancy requires specialized care
+17,70.0,50.0,5.0,98.0,70.0,low risk,Adolescent pregnancy requires specialized care; Medical evaluation needed for low systolic BP; Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+17,90.0,60.0,5.5,98.0,76.0,low risk,Adolescent pregnancy requires specialized care; Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+17,90.0,63.0,4.5,98.0,70.0,low risk,Adolescent pregnancy requires specialized care; Increase fluid intake for low systolic BP; Prenatal monitoring recommended
+25,120.0,90.0,6.5,98.0,80.0,low risk,Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+17,120.0,80.0,3.5,98.0,76.0,low risk,Adolescent pregnancy requires specialized care; Check for hypoglycemia symptoms
+19,90.0,65.0,4.5,98.0,70.0,low risk,Increase fluid intake for low systolic BP; Prenatal monitoring recommended
+15,80.0,60.0,3.5,98.0,80.0,low risk,Adolescent pregnancy requires specialized care; Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Check for hypoglycemia symptoms; Prenatal monitoring recommended
+60,90.0,65.0,7.5,98.0,77.0,low risk,Increase fluid intake for low systolic BP; Prenatal monitoring recommended
+50,120.0,80.0,7.5,98.0,70.0,low risk,All parameters normal - maintain routine prenatal care
+19,90.0,70.0,4.5,98.0,80.0,low risk,Increase fluid intake for low systolic BP; Prenatal monitoring recommended
+23,120.0,90.0,5.5,98.0,70.0,low risk,Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+17,85.0,60.0,3.5,102.0,66.0,low risk,Adolescent pregnancy requires specialized care; Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Check for hypoglycemia symptoms; Seek immediate treatment for high fever; Prenatal monitoring recommended
+42,90.0,60.0,7.5,98.0,76.0,low risk,Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+15,78.0,49.0,5.5,98.0,77.0,low risk,Adolescent pregnancy requires specialized care; Increase fluid intake for low systolic BP; Medical evaluation needed for low diastolic BP; Prenatal monitoring recommended
+16,70.0,50.0,3.0,100.0,70.0,low risk,Adolescent pregnancy requires specialized care; Medical evaluation needed for low systolic BP; Consider compression stockings for low diastolic BP; Check for hypoglycemia symptoms; Monitor temperature and stay hydrated; Prenatal monitoring recommended
+16,100.0,70.0,4.0,98.0,80.0,low risk,Adolescent pregnancy requires specialized care; Check for hypoglycemia symptoms
+19,120.0,75.0,4.4,98.0,66.0,low risk,All parameters normal - maintain routine prenatal care
+22,100.0,65.0,5.0,98.0,70.0,low risk,All parameters normal - maintain routine prenatal care
+49,120.0,90.0,7.5,98.0,77.0,low risk,Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+12,90.0,60.0,3.0,102.0,66.0,low risk,Adolescent pregnancy requires specialized care; Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Check for hypoglycemia symptoms; Seek immediate treatment for high fever; Prenatal monitoring recommended
+20,100.0,90.0,3.5,98.0,74.0,low risk,Monitor diastolic BP and practice relaxation techniques; Check for hypoglycemia symptoms; Prenatal monitoring recommended
+23,100.0,85.0,5.0,98.0,66.0,low risk,All parameters normal - maintain routine prenatal care
+22,120.0,90.0,5.01,98.0,70.0,low risk,Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+21,120.0,80.0,5.0,98.0,77.0,low risk,All parameters normal - maintain routine prenatal care
+21,75.0,50.0,5.0,98.0,60.0,low risk,Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Medical evaluation for low heart rate; Prenatal monitoring recommended
+12,90.0,60.0,3.7,102.0,60.0,low risk,Adolescent pregnancy requires specialized care; Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Check for hypoglycemia symptoms; Seek immediate treatment for high fever; Medical evaluation for low heart rate; Prenatal monitoring recommended
+55,100.0,65.0,7.0,98.0,66.0,low risk,All parameters normal - maintain routine prenatal care
+45,120.0,95.0,6.5,98.0,66.0,low risk,Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+35,100.0,70.0,7.0,98.0,66.0,low risk,All parameters normal - maintain routine prenatal care
+22,120.0,85.0,4.5,98.0,78.0,low risk,All parameters normal - maintain routine prenatal care
+24,120.0,70.0,4.07,98.0,72.0,low risk,All parameters normal - maintain routine prenatal care
+17,90.0,65.0,3.5,98.0,67.0,low risk,Adolescent pregnancy requires specialized care; Increase fluid intake for low systolic BP; Check for hypoglycemia symptoms; Prenatal monitoring recommended
+23,120.0,80.0,5.01,98.0,70.0,low risk,All parameters normal - maintain routine prenatal care
+19,85.0,60.0,3.3,98.0,76.0,low risk,Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Check for hypoglycemia symptoms; Prenatal monitoring recommended
+32,120.0,90.0,6.5,98.0,70.0,low risk,Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+25,140.0,100.0,8.0,98.0,88.0,high risk,Monitor systolic BP and reduce salt intake; Urgent care needed for diastolic BP; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+40,140.0,100.0,14.0,98.0,90.0,high risk,Monitor systolic BP and reduce salt intake; Urgent care needed for diastolic BP; Monitor carbohydrate intake and blood sugar levels; Cardiac evaluation recommended for high heart rate; Prenatal monitoring recommended
+32,140.0,100.0,7.9,98.0,84.0,high risk,Monitor systolic BP and reduce salt intake; Urgent care needed for diastolic BP; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+24,90.0,65.0,7.0,101.0,60.0,high risk,Increase fluid intake for low systolic BP; Seek immediate treatment for high fever; Medical evaluation for low heart rate; Prenatal monitoring recommended
+37,120.0,90.0,11.0,98.0,88.0,high risk,Monitor diastolic BP and practice relaxation techniques; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+17,110.0,75.0,7.0,101.0,76.0,high risk,Adolescent pregnancy requires specialized care; Seek immediate treatment for high fever
+40,120.0,90.0,12.0,98.0,86.0,high risk,Monitor diastolic BP and practice relaxation techniques; Monitor carbohydrate intake and blood sugar levels; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+40,160.0,100.0,14.0,98.0,87.0,high risk,Urgent medical attention needed for systolic BP; Urgent care needed for diastolic BP; Monitor carbohydrate intake and blood sugar levels; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+32,140.0,90.0,9.0,98.0,88.0,high risk,Monitor systolic BP and reduce salt intake; Monitor diastolic BP and practice relaxation techniques; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+22,90.0,60.0,7.9,102.0,66.0,high risk,Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Seek immediate treatment for high fever; Prenatal monitoring recommended
+35,140.0,100.0,9.0,98.0,62.0,high risk,Monitor systolic BP and reduce salt intake; Urgent care needed for diastolic BP; Prenatal monitoring recommended
+54,140.0,100.0,15.0,98.0,66.0,high risk,Monitor systolic BP and reduce salt intake; Urgent care needed for diastolic BP; Immediate diabetes screening recommended; Prenatal monitoring recommended
+40,120.0,95.0,11.0,98.0,80.0,high risk,Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+45,120.0,85.0,15.0,98.0,60.0,high risk,Immediate diabetes screening recommended; Medical evaluation for low heart rate; Prenatal monitoring recommended
+55,140.0,95.0,19.0,98.0,77.0,high risk,Monitor systolic BP and reduce salt intake; Monitor diastolic BP and practice relaxation techniques; Immediate diabetes screening recommended; Prenatal monitoring recommended
+50,130.0,100.0,16.0,98.0,75.0,high risk,Urgent care needed for diastolic BP; Immediate diabetes screening recommended; Prenatal monitoring recommended
+17,90.0,65.0,6.1,103.0,77.0,high risk,Adolescent pregnancy requires specialized care; Increase fluid intake for low systolic BP; Seek immediate treatment for high fever; Prenatal monitoring recommended
+28,85.0,60.0,8.0,101.0,86.0,high risk,Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Seek immediate treatment for high fever; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+50,120.0,80.0,15.0,98.0,70.0,high risk,Immediate diabetes screening recommended; Prenatal monitoring recommended
+33,120.0,75.0,10.0,98.0,80.0,high risk,All parameters normal - maintain routine prenatal care
+30,140.0,100.0,10.0,98.0,70.0,high risk,Monitor systolic BP and reduce salt intake; Urgent care needed for diastolic BP; Prenatal monitoring recommended
+29,120.0,75.0,7.2,100.0,70.0,high risk,Monitor temperature and stay hydrated
+50,140.0,90.0,15.0,98.0,77.0,high risk,Monitor systolic BP and reduce salt intake; Monitor diastolic BP and practice relaxation techniques; Immediate diabetes screening recommended; Prenatal monitoring recommended
+25,140.0,100.0,7.2,98.0,80.0,high risk,Monitor systolic BP and reduce salt intake; Urgent care needed for diastolic BP; Prenatal monitoring recommended
+55,140.0,80.0,17.0,101.0,76.0,high risk,Monitor systolic BP and reduce salt intake; Immediate diabetes screening recommended; Seek immediate treatment for high fever; Prenatal monitoring recommended
+40,140.0,100.0,13.0,98.0,77.0,high risk,Monitor systolic BP and reduce salt intake; Urgent care needed for diastolic BP; Monitor carbohydrate intake and blood sugar levels; Prenatal monitoring recommended
+28,120.0,80.0,8.0,102.0,76.0,high risk,Seek immediate treatment for high fever
+32,140.0,100.0,9.0,98.0,70.0,high risk,Monitor systolic BP and reduce salt intake; Urgent care needed for diastolic BP; Prenatal monitoring recommended
+17,90.0,60.0,8.0,101.0,78.0,high risk,Adolescent pregnancy requires specialized care; Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Seek immediate treatment for high fever; Prenatal monitoring recommended
+17,90.0,63.0,8.0,101.0,70.0,high risk,Adolescent pregnancy requires specialized care; Increase fluid intake for low systolic BP; Seek immediate treatment for high fever; Prenatal monitoring recommended
+25,120.0,90.0,12.0,101.0,80.0,high risk,Monitor diastolic BP and practice relaxation techniques; Monitor carbohydrate intake and blood sugar levels; Seek immediate treatment for high fever; Prenatal monitoring recommended
+17,120.0,80.0,7.0,102.0,76.0,high risk,Adolescent pregnancy requires specialized care; Seek immediate treatment for high fever
+19,90.0,65.0,9.0,101.0,70.0,high risk,Increase fluid intake for low systolic BP; Seek immediate treatment for high fever; Prenatal monitoring recommended
+25,120.0,90.0,11.0,98.0,80.0,high risk,Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+40,160.0,100.0,16.0,98.0,77.0,high risk,Urgent medical attention needed for systolic BP; Urgent care needed for diastolic BP; Immediate diabetes screening recommended; Prenatal monitoring recommended
+32,140.0,90.0,10.0,98.0,88.0,high risk,Monitor systolic BP and reduce salt intake; Monitor diastolic BP and practice relaxation techniques; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+22,90.0,60.0,8.0,102.0,62.0,high risk,Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Seek immediate treatment for high fever; Prenatal monitoring recommended
+35,140.0,100.0,9.0,98.0,88.0,high risk,Monitor systolic BP and reduce salt intake; Urgent care needed for diastolic BP; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+21,90.0,60.0,9.0,102.0,60.0,high risk,Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Seek immediate treatment for high fever; Medical evaluation for low heart rate; Prenatal monitoring recommended
+50,130.0,100.0,16.0,98.0,76.0,high risk,Urgent care needed for diastolic BP; Immediate diabetes screening recommended; Prenatal monitoring recommended
+23,90.0,65.0,9.0,101.0,80.0,high risk,Increase fluid intake for low systolic BP; Seek immediate treatment for high fever; Prenatal monitoring recommended
+17,90.0,65.0,7.7,103.0,67.0,high risk,Adolescent pregnancy requires specialized care; Increase fluid intake for low systolic BP; Seek immediate treatment for high fever; Prenatal monitoring recommended
+17,85.0,60.0,6.3,102.0,86.0,high risk,Adolescent pregnancy requires specialized care; Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Seek immediate treatment for high fever; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+40,120.0,75.0,7.7,98.0,70.0,high risk,All parameters normal - maintain routine prenatal care
+22,120.0,60.0,9.0,98.0,80.0,high risk,Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+55,120.0,90.0,18.0,98.0,60.0,high risk,Monitor diastolic BP and practice relaxation techniques; Immediate diabetes screening recommended; Medical evaluation for low heart rate; Prenatal monitoring recommended
+35,85.0,60.0,11.0,98.0,86.0,high risk,Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+43,120.0,90.0,15.0,98.0,80.0,high risk,Monitor diastolic BP and practice relaxation techniques; Immediate diabetes screening recommended; Prenatal monitoring recommended
+32,120.0,65.0,8.0,101.0,86.0,high risk,Seek immediate treatment for high fever; Reduce caffeine and monitor heart rate
+23,120.0,80.0,4.4,98.0,72.0,low risk,All parameters normal - maintain routine prenatal care
+32,90.0,60.0,11.0,100.0,80.0,high risk,Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Monitor temperature and stay hydrated; Prenatal monitoring recommended
+20,100.0,65.0,3.7,98.0,74.0,low risk,Check for hypoglycemia symptoms
+26,110.0,80.0,5.8,98.0,74.0,low risk,All parameters normal - maintain routine prenatal care
+22,90.0,60.0,4.4,98.0,70.0,low risk,Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+21,110.0,70.0,9.0,100.0,80.0,high risk,Monitor temperature and stay hydrated
+25,100.0,60.0,5.0,98.0,72.0,low risk,Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+20,120.0,70.0,8.01,101.0,84.0,high risk,Seek immediate treatment for high fever; Reduce caffeine and monitor heart rate
+20,90.0,60.0,4.0,98.0,72.0,low risk,Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Check for hypoglycemia symptoms; Prenatal monitoring recommended
+32,100.0,60.0,7.1,98.0,72.0,low risk,Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+23,90.0,60.0,5.6,98.0,71.0,low risk,Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+18,100.0,70.0,3.5,98.0,72.0,low risk,Check for hypoglycemia symptoms
+21,110.0,80.0,5.1,98.0,74.0,low risk,All parameters normal - maintain routine prenatal care
+25,110.0,60.0,6.5,98.0,72.0,low risk,Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+21,110.0,70.0,4.9,98.0,74.0,low risk,All parameters normal - maintain routine prenatal care
+43,140.0,100.0,14.0,98.0,88.0,high risk,Monitor systolic BP and reduce salt intake; Urgent care needed for diastolic BP; Monitor carbohydrate intake and blood sugar levels; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+19,110.0,70.0,4.0,98.0,72.0,low risk,Check for hypoglycemia symptoms
+27,100.0,70.0,7.0,100.0,70.0,low risk,Monitor temperature and stay hydrated
+18,120.0,80.0,3.3,98.0,70.0,low risk,Check for hypoglycemia symptoms
+20,100.0,60.0,4.1,98.0,68.0,low risk,Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+23,120.0,80.0,5.0,98.0,70.0,low risk,All parameters normal - maintain routine prenatal care
+18,90.0,60.0,3.0,98.0,70.0,low risk,Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Check for hypoglycemia symptoms; Prenatal monitoring recommended
+29,120.0,70.0,7.0,98.0,70.0,low risk,All parameters normal - maintain routine prenatal care
+23,100.0,60.0,4.5,98.0,70.0,low risk,Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+31,110.0,70.0,7.0,100.0,72.0,low risk,Monitor temperature and stay hydrated
+25,140.0,90.0,9.0,101.0,80.0,high risk,Monitor systolic BP and reduce salt intake; Monitor diastolic BP and practice relaxation techniques; Seek immediate treatment for high fever; Prenatal monitoring recommended
+29,100.0,70.0,7.1,100.0,76.0,low risk,Monitor temperature and stay hydrated
+28,90.0,60.0,5.9,98.0,73.0,low risk,Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+22,110.0,70.0,5.0,98.0,72.0,low risk,All parameters normal - maintain routine prenatal care
+25,90.0,60.0,6.9,98.0,72.0,low risk,Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+17,110.0,80.0,3.6,98.0,72.0,low risk,Adolescent pregnancy requires specialized care; Check for hypoglycemia symptoms
+28,90.0,60.0,7.0,98.0,74.0,low risk,Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+24,110.0,70.0,5.1,100.0,78.0,low risk,Monitor temperature and stay hydrated
+19,130.0,80.0,4.0,98.0,70.0,low risk,Check for hypoglycemia symptoms
+31,150.0,100.0,10.0,98.0,88.0,high risk,Monitor systolic BP and reduce salt intake; Urgent care needed for diastolic BP; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+40,150.0,90.0,12.0,100.0,88.0,high risk,Monitor systolic BP and reduce salt intake; Monitor diastolic BP and practice relaxation techniques; Monitor carbohydrate intake and blood sugar levels; Monitor temperature and stay hydrated; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+21,90.0,60.0,5.0,98.0,72.0,low risk,Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+18,130.0,80.0,3.9,98.0,70.0,low risk,Check for hypoglycemia symptoms
+17,100.0,70.0,3.5,98.0,70.0,low risk,Adolescent pregnancy requires specialized care; Check for hypoglycemia symptoms
+35,110.0,70.0,7.5,98.0,68.0,low risk,All parameters normal - maintain routine prenatal care
+32,120.0,80.0,7.0,98.0,72.0,low risk,All parameters normal - maintain routine prenatal care
+26,130.0,100.0,6.9,98.0,72.0,low risk,Urgent care needed for diastolic BP; Prenatal monitoring recommended
+19,150.0,100.0,5.2,98.0,73.0,low risk,Monitor systolic BP and reduce salt intake; Urgent care needed for diastolic BP; Prenatal monitoring recommended
+22,140.0,90.0,6.0,98.0,70.0,low risk,Monitor systolic BP and reduce salt intake; Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+18,120.0,80.0,5.0,98.0,72.0,low risk,All parameters normal - maintain routine prenatal care
+21,110.0,70.0,5.9,98.0,74.0,low risk,All parameters normal - maintain routine prenatal care
+37,100.0,60.0,14.0,98.0,82.0,high risk,Consider compression stockings for low diastolic BP; Monitor carbohydrate intake and blood sugar levels; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+29,110.0,70.0,6.7,98.0,70.0,low risk,All parameters normal - maintain routine prenatal care
+36,160.0,100.0,13.0,98.0,60.0,high risk,Urgent medical attention needed for systolic BP; Urgent care needed for diastolic BP; Monitor carbohydrate intake and blood sugar levels; Medical evaluation for low heart rate; Prenatal monitoring recommended
+39,130.0,90.0,15.0,98.0,90.0,high risk,Monitor diastolic BP and practice relaxation techniques; Immediate diabetes screening recommended; Cardiac evaluation recommended for high heart rate; Prenatal monitoring recommended
+33,130.0,110.0,12.0,100.0,88.0,high risk,Urgent care needed for diastolic BP; Monitor carbohydrate intake and blood sugar levels; Monitor temperature and stay hydrated; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+35,140.0,90.0,11.0,100.0,88.0,high risk,Monitor systolic BP and reduce salt intake; Monitor diastolic BP and practice relaxation techniques; Monitor temperature and stay hydrated; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+39,140.0,100.0,17.0,98.0,80.0,high risk,Monitor systolic BP and reduce salt intake; Urgent care needed for diastolic BP; Immediate diabetes screening recommended; Prenatal monitoring recommended
+49,140.0,96.0,19.0,98.0,86.0,high risk,Monitor systolic BP and reduce salt intake; Monitor diastolic BP and practice relaxation techniques; Immediate diabetes screening recommended; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+28,120.0,70.0,9.0,101.0,80.0,high risk,Seek immediate treatment for high fever
+25,90.0,60.0,5.9,98.0,72.0,low risk,Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+21,90.0,60.0,4.1,98.0,70.0,low risk,Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+19,100.0,70.0,4.0,98.0,72.0,low risk,Check for hypoglycemia symptoms
+27,100.0,70.0,6.0,98.0,72.0,low risk,All parameters normal - maintain routine prenatal care
+28,120.0,80.0,7.0,98.0,74.0,low risk,All parameters normal - maintain routine prenatal care
+23,130.0,90.0,9.0,100.0,87.0,high risk,Monitor diastolic BP and practice relaxation techniques; Monitor temperature and stay hydrated; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+34,170.0,90.0,8.8,98.0,88.0,high risk,Urgent medical attention needed for systolic BP; Monitor diastolic BP and practice relaxation techniques; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+33,140.0,100.0,9.0,98.0,86.0,high risk,Monitor systolic BP and reduce salt intake; Urgent care needed for diastolic BP; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+28,160.0,90.0,7.9,98.0,62.0,high risk,Urgent medical attention needed for systolic BP; Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+26,110.0,70.0,7.0,98.0,70.0,low risk,All parameters normal - maintain routine prenatal care
+33,90.0,60.0,7.0,98.0,72.0,low risk,Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+27,120.0,80.0,7.1,98.0,72.0,low risk,All parameters normal - maintain routine prenatal care
+31,110.0,70.0,6.9,98.0,72.0,low risk,All parameters normal - maintain routine prenatal care
+29,120.0,80.0,7.0,98.0,72.0,low risk,All parameters normal - maintain routine prenatal care
+30,100.0,60.0,7.0,98.0,77.0,low risk,Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+34,130.0,90.0,11.0,98.0,82.0,high risk,Monitor diastolic BP and practice relaxation techniques; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+36,130.0,100.0,14.0,101.0,90.0,high risk,Urgent care needed for diastolic BP; Monitor carbohydrate intake and blood sugar levels; Seek immediate treatment for high fever; Cardiac evaluation recommended for high heart rate; Prenatal monitoring recommended
+19,100.0,70.0,6.7,101.0,88.0,high risk,Seek immediate treatment for high fever; Reduce caffeine and monitor heart rate
+24,120.0,80.0,6.6,98.0,74.0,low risk,All parameters normal - maintain routine prenatal care
+20,110.0,70.0,4.1,98.0,72.0,low risk,All parameters normal - maintain routine prenatal care
+23,130.0,100.0,6.2,98.0,84.0,high risk,Urgent care needed for diastolic BP; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+33,130.0,80.0,7.9,98.0,88.0,high risk,Reduce caffeine and monitor heart rate
+23,140.0,85.0,6.8,98.0,82.0,high risk,Monitor systolic BP and reduce salt intake; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+40,90.0,65.0,11.0,98.0,83.0,high risk,Increase fluid intake for low systolic BP; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+34,120.0,100.0,8.0,98.0,86.0,high risk,Urgent care needed for diastolic BP; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+27,90.0,60.0,7.2,102.0,90.0,high risk,Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Seek immediate treatment for high fever; Cardiac evaluation recommended for high heart rate; Prenatal monitoring recommended
+33,120.0,90.0,7.0,98.0,87.0,high risk,Monitor diastolic BP and practice relaxation techniques; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+34,130.0,100.0,8.0,98.0,80.0,high risk,Urgent care needed for diastolic BP; Prenatal monitoring recommended
+24,95.0,65.0,6.6,99.0,78.0,high risk,All parameters normal - maintain routine prenatal care
+29,120.0,90.0,6.9,98.0,76.0,high risk,Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+25,80.0,50.0,7.0,98.0,72.0,high risk,Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+16,125.0,85.0,5.0,98.0,68.0,high risk,Adolescent pregnancy requires specialized care
+25,135.0,95.0,6.8,98.0,60.0,high risk,Monitor diastolic BP and practice relaxation techniques; Medical evaluation for low heart rate; Prenatal monitoring recommended
+19,75.0,45.0,5.5,98.0,66.0,high risk,Increase fluid intake for low systolic BP; Medical evaluation needed for low diastolic BP; Prenatal monitoring recommended
+21,95.0,60.0,6.0,100.0,88.0,high risk,Consider compression stockings for low diastolic BP; Monitor temperature and stay hydrated; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+27,90.0,65.0,7.0,101.0,88.0,high risk,Increase fluid intake for low systolic BP; Seek immediate treatment for high fever; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+24,100.0,80.0,6.0,101.0,88.0,high risk,Seek immediate treatment for high fever; Reduce caffeine and monitor heart rate
+27,105.0,80.0,7.0,102.0,90.0,high risk,Seek immediate treatment for high fever; Cardiac evaluation recommended for high heart rate
+19,85.0,65.0,5.0,101.0,92.0,high risk,Increase fluid intake for low systolic BP; Seek immediate treatment for high fever; Cardiac evaluation recommended for high heart rate; Prenatal monitoring recommended
+37,80.0,55.0,10.0,98.0,81.0,high risk,Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+17,100.0,60.0,4.7,98.0,78.0,high risk,Adolescent pregnancy requires specialized care; Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+42,115.0,95.0,14.0,98.0,77.0,high risk,Monitor diastolic BP and practice relaxation techniques; Monitor carbohydrate intake and blood sugar levels; Prenatal monitoring recommended
+19,100.0,70.0,4.0,98.0,76.0,high risk,Check for hypoglycemia symptoms
+29,105.0,75.0,8.0,98.0,74.0,high risk,All parameters normal - maintain routine prenatal care
+32,120.0,95.0,9.0,98.0,88.0,high risk,Monitor diastolic BP and practice relaxation techniques; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+25,85.0,65.0,7.7,102.0,80.0,high risk,Increase fluid intake for low systolic BP; Seek immediate treatment for high fever; Prenatal monitoring recommended
+22,125.0,95.0,6.9,98.0,82.0,high risk,Monitor diastolic BP and practice relaxation techniques; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+32,120.0,60.0,8.1,98.0,84.0,high risk,Consider compression stockings for low diastolic BP; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+33,90.0,55.0,7.5,98.0,86.0,high risk,Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+22,120.0,75.0,6.0,98.0,90.0,high risk,Cardiac evaluation recommended for high heart rate
+26,80.0,45.0,7.5,98.0,82.0,high risk,Increase fluid intake for low systolic BP; Medical evaluation needed for low diastolic BP; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+26,70.0,40.0,7.8,100.0,82.0,high risk,Medical evaluation needed for low systolic BP; Medical evaluation needed for low diastolic BP; Monitor temperature and stay hydrated; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+33,100.0,70.0,7.5,98.0,78.0,high risk,All parameters normal - maintain routine prenatal care
+18,120.0,90.0,4.9,98.0,68.0,high risk,Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+21,100.0,65.0,5.8,98.0,62.0,high risk,All parameters normal - maintain routine prenatal care
+39,120.0,90.0,7.5,98.0,72.0,high risk,Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+28,90.0,60.0,7.5,98.0,80.0,high risk,Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+22,90.0,60.0,7.5,102.0,88.0,high risk,Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Seek immediate treatment for high fever; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+20,100.0,90.0,7.5,98.0,86.0,high risk,Monitor diastolic BP and practice relaxation techniques; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+22,100.0,85.0,7.5,98.0,80.0,high risk,All parameters normal - maintain routine prenatal care
+24,120.0,90.0,7.5,98.0,90.0,high risk,Monitor diastolic BP and practice relaxation techniques; Cardiac evaluation recommended for high heart rate; Prenatal monitoring recommended
+22,120.0,80.0,7.5,98.0,90.0,high risk,Cardiac evaluation recommended for high heart rate
+21,75.0,50.0,7.5,98.0,60.0,high risk,Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Medical evaluation for low heart rate; Prenatal monitoring recommended
+21,90.0,60.0,7.5,102.0,68.0,high risk,Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Seek immediate treatment for high fever; Prenatal monitoring recommended
+44,120.0,80.0,15.0,98.0,70.0,high risk,Immediate diabetes screening recommended; Prenatal monitoring recommended
+45,100.0,65.0,14.0,98.0,72.0,high risk,Monitor carbohydrate intake and blood sugar levels; Prenatal monitoring recommended
+37,120.0,95.0,9.0,98.0,88.0,high risk,Monitor diastolic BP and practice relaxation techniques; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+25,100.0,70.0,7.0,98.0,90.0,high risk,Cardiac evaluation recommended for high heart rate
+26,120.0,85.0,7.0,98.0,86.0,high risk,Reduce caffeine and monitor heart rate
+23,90.0,65.0,6.8,101.0,84.0,high risk,Increase fluid intake for low systolic BP; Seek immediate treatment for high fever; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+32,120.0,90.0,8.4,98.0,82.0,high risk,Monitor diastolic BP and practice relaxation techniques; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+27,90.0,65.0,7.2,103.0,80.0,high risk,Increase fluid intake for low systolic BP; Seek immediate treatment for high fever; Prenatal monitoring recommended
+29,120.0,80.0,7.5,98.0,88.0,high risk,Reduce caffeine and monitor heart rate
+28,120.0,80.0,7.0,98.0,87.0,high risk,Reduce caffeine and monitor heart rate
+19,85.0,60.0,6.0,102.0,77.0,high risk,Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Seek immediate treatment for high fever; Prenatal monitoring recommended
+19,120.0,90.0,6.0,98.0,77.0,high risk,Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+32,120.0,80.0,9.0,98.0,76.0,high risk,All parameters normal - maintain routine prenatal care
+35,140.0,100.0,9.3,98.0,78.0,high risk,Monitor systolic BP and reduce salt intake; Urgent care needed for diastolic BP; Prenatal monitoring recommended
+30,140.0,100.0,8.0,98.0,80.0,high risk,Monitor systolic BP and reduce salt intake; Urgent care needed for diastolic BP; Prenatal monitoring recommended
+22,140.0,100.0,6.9,98.0,90.0,high risk,Monitor systolic BP and reduce salt intake; Urgent care needed for diastolic BP; Cardiac evaluation recommended for high heart rate; Prenatal monitoring recommended
+24,90.0,65.0,7.0,101.0,66.0,high risk,Increase fluid intake for low systolic BP; Seek immediate treatment for high fever; Prenatal monitoring recommended
+20,120.0,90.0,4.8,98.0,77.0,high risk,Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+17,110.0,75.0,4.0,101.0,90.0,high risk,Adolescent pregnancy requires specialized care; Check for hypoglycemia symptoms; Seek immediate treatment for high fever; Cardiac evaluation recommended for high heart rate
+30,120.0,90.0,8.9,98.0,92.0,high risk,Monitor diastolic BP and practice relaxation techniques; Cardiac evaluation recommended for high heart rate; Prenatal monitoring recommended
+27,160.0,100.0,9.0,98.0,80.0,high risk,Urgent medical attention needed for systolic BP; Urgent care needed for diastolic BP; Prenatal monitoring recommended
+31,140.0,90.0,9.0,98.0,80.0,high risk,Monitor systolic BP and reduce salt intake; Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+21,90.0,60.0,6.9,102.0,77.0,high risk,Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Seek immediate treatment for high fever; Prenatal monitoring recommended
+25,140.0,100.0,7.0,98.0,82.0,high risk,Monitor systolic BP and reduce salt intake; Urgent care needed for diastolic BP; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+45,140.0,100.0,15.0,98.0,84.0,high risk,Monitor systolic BP and reduce salt intake; Urgent care needed for diastolic BP; Immediate diabetes screening recommended; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+41,120.0,95.0,11.0,98.0,90.0,high risk,Monitor diastolic BP and practice relaxation techniques; Cardiac evaluation recommended for high heart rate; Prenatal monitoring recommended
+29,120.0,85.0,9.0,98.0,88.0,high risk,Reduce caffeine and monitor heart rate
+25,140.0,95.0,7.0,98.0,86.0,high risk,Monitor systolic BP and reduce salt intake; Monitor diastolic BP and practice relaxation techniques; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+20,130.0,100.0,6.0,98.0,82.0,high risk,Urgent care needed for diastolic BP; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+37,90.0,65.0,12.0,103.0,78.0,high risk,Increase fluid intake for low systolic BP; Monitor carbohydrate intake and blood sugar levels; Seek immediate treatment for high fever; Prenatal monitoring recommended
+29,140.0,90.0,8.0,101.0,72.0,high risk,Monitor systolic BP and reduce salt intake; Monitor diastolic BP and practice relaxation techniques; Seek immediate treatment for high fever; Prenatal monitoring recommended
+30,120.0,80.0,9.0,98.0,60.0,high risk,Medical evaluation for low heart rate
+17,85.0,60.0,6.0,102.0,62.0,high risk,Adolescent pregnancy requires specialized care; Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Seek immediate treatment for high fever; Prenatal monitoring recommended
+33,120.0,75.0,10.0,98.0,58.0,high risk,Medical evaluation for low heart rate
+49,120.0,80.0,17.0,98.0,66.0,high risk,Immediate diabetes screening recommended; Prenatal monitoring recommended
+29,140.0,95.0,7.0,98.0,72.0,high risk,Monitor systolic BP and reduce salt intake; Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+27,120.0,75.0,7.2,100.0,80.0,high risk,Monitor temperature and stay hydrated
+25,120.0,80.0,11.0,98.0,90.0,high risk,Cardiac evaluation recommended for high heart rate
+21,140.0,90.0,7.0,98.0,72.0,high risk,Monitor systolic BP and reduce salt intake; Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+35,140.0,80.0,10.0,101.0,90.0,high risk,Monitor systolic BP and reduce salt intake; Seek immediate treatment for high fever; Cardiac evaluation recommended for high heart rate; Prenatal monitoring recommended
+40,140.0,100.0,18.0,98.0,88.0,high risk,Monitor systolic BP and reduce salt intake; Urgent care needed for diastolic BP; Immediate diabetes screening recommended; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+28,120.0,80.0,9.0,102.0,87.0,high risk,Seek immediate treatment for high fever; Reduce caffeine and monitor heart rate
+22,140.0,100.0,8.0,98.0,77.0,high risk,Monitor systolic BP and reduce salt intake; Urgent care needed for diastolic BP; Prenatal monitoring recommended
+27,90.0,60.0,11.0,101.0,78.0,high risk,Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Seek immediate treatment for high fever; Prenatal monitoring recommended
+29,90.0,65.0,8.0,101.0,76.0,high risk,Increase fluid intake for low systolic BP; Seek immediate treatment for high fever; Prenatal monitoring recommended
+18,120.0,90.0,7.2,101.0,82.0,high risk,Monitor diastolic BP and practice relaxation techniques; Seek immediate treatment for high fever; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+21,120.0,80.0,7.0,102.0,90.0,high risk,Seek immediate treatment for high fever; Cardiac evaluation recommended for high heart rate
+39,90.0,65.0,11.0,101.0,92.0,high risk,Increase fluid intake for low systolic BP; Seek immediate treatment for high fever; Cardiac evaluation recommended for high heart rate; Prenatal monitoring recommended
+27,120.0,90.0,9.0,98.0,78.0,high risk,Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+25,110.0,75.0,8.3,101.0,77.0,high risk,Seek immediate treatment for high fever
+27,120.0,90.0,7.5,98.0,76.0,high risk,Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+30,160.0,100.0,11.0,98.0,74.0,high risk,Urgent medical attention needed for systolic BP; Urgent care needed for diastolic BP; Prenatal monitoring recommended
+32,140.0,90.0,13.0,98.0,80.0,high risk,Monitor systolic BP and reduce salt intake; Monitor diastolic BP and practice relaxation techniques; Monitor carbohydrate intake and blood sugar levels; Prenatal monitoring recommended
+21,90.0,60.0,8.0,98.0,88.0,high risk,Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+35,140.0,100.0,9.0,98.0,86.0,high risk,Monitor systolic BP and reduce salt intake; Urgent care needed for diastolic BP; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+34,140.0,100.0,10.0,98.0,84.0,high risk,Monitor systolic BP and reduce salt intake; Urgent care needed for diastolic BP; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+18,120.0,80.0,9.0,98.0,84.0,high risk,Reduce caffeine and monitor heart rate
+20,110.0,80.0,11.0,98.0,84.0,high risk,Reduce caffeine and monitor heart rate
+22,140.0,90.0,10.0,98.0,84.0,high risk,Monitor systolic BP and reduce salt intake; Monitor diastolic BP and practice relaxation techniques; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+25,100.0,60.0,8.0,98.0,84.0,high risk,Consider compression stockings for low diastolic BP; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+24,120.0,70.0,11.0,98.0,84.0,high risk,Reduce caffeine and monitor heart rate
+28,140.0,85.0,13.0,98.0,84.0,high risk,Monitor systolic BP and reduce salt intake; Monitor carbohydrate intake and blood sugar levels; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+29,130.0,70.0,10.0,98.0,84.0,high risk,Reduce caffeine and monitor heart rate
+31,120.0,60.0,12.0,98.0,84.0,high risk,Consider compression stockings for low diastolic BP; Monitor carbohydrate intake and blood sugar levels; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+21,130.0,80.0,7.6,98.0,84.0,high risk,Reduce caffeine and monitor heart rate
+22,90.0,60.0,7.6,98.0,84.0,high risk,Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+21,90.0,65.0,7.6,98.0,84.0,high risk,Increase fluid intake for low systolic BP; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+20,100.0,60.0,7.0,99.0,84.0,high risk,Consider compression stockings for low diastolic BP; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+17,110.0,70.0,6.5,98.0,84.0,high risk,Adolescent pregnancy requires specialized care; Reduce caffeine and monitor heart rate
+19,110.0,75.0,5.9,98.0,84.0,high risk,Reduce caffeine and monitor heart rate
+29,110.0,80.0,11.0,98.0,84.0,high risk,Reduce caffeine and monitor heart rate
+27,150.0,90.0,10.0,98.0,84.0,high risk,Monitor systolic BP and reduce salt intake; Monitor diastolic BP and practice relaxation techniques; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+28,150.0,100.0,9.0,98.0,78.0,high risk,Monitor systolic BP and reduce salt intake; Urgent care needed for diastolic BP; Prenatal monitoring recommended
+24,140.0,100.0,8.0,98.0,78.0,high risk,Monitor systolic BP and reduce salt intake; Urgent care needed for diastolic BP; Prenatal monitoring recommended
+21,110.0,75.0,7.0,98.0,78.0,high risk,All parameters normal - maintain routine prenatal care
+20,120.0,80.0,5.0,98.0,78.0,high risk,All parameters normal - maintain routine prenatal care
+26,130.0,80.0,9.0,98.0,78.0,high risk,All parameters normal - maintain routine prenatal care
+28,120.0,80.0,9.7,100.0,78.0,high risk,Monitor temperature and stay hydrated
+33,115.0,75.0,11.1,98.0,78.0,high risk,All parameters normal - maintain routine prenatal care
+31,125.0,65.0,11.5,98.0,78.0,high risk,All parameters normal - maintain routine prenatal care
+32,105.0,55.0,12.0,98.0,90.0,high risk,Consider compression stockings for low diastolic BP; Monitor carbohydrate intake and blood sugar levels; Cardiac evaluation recommended for high heart rate; Prenatal monitoring recommended
+29,100.0,60.0,10.0,98.0,90.0,high risk,Consider compression stockings for low diastolic BP; Cardiac evaluation recommended for high heart rate; Prenatal monitoring recommended
+27,90.0,70.0,8.9,98.0,90.0,high risk,Increase fluid intake for low systolic BP; Cardiac evaluation recommended for high heart rate; Prenatal monitoring recommended
+22,100.0,60.0,6.9,98.0,90.0,high risk,Consider compression stockings for low diastolic BP; Cardiac evaluation recommended for high heart rate; Prenatal monitoring recommended
+24,100.0,70.0,5.9,98.0,90.0,high risk,Cardiac evaluation recommended for high heart rate
+20,120.0,90.0,5.0,98.0,90.0,high risk,Monitor diastolic BP and practice relaxation techniques; Cardiac evaluation recommended for high heart rate; Prenatal monitoring recommended
+21,120.0,90.0,5.6,98.0,90.0,high risk,Monitor diastolic BP and practice relaxation techniques; Cardiac evaluation recommended for high heart rate; Prenatal monitoring recommended
+28,120.0,100.0,8.8,98.0,90.0,high risk,Urgent care needed for diastolic BP; Cardiac evaluation recommended for high heart rate; Prenatal monitoring recommended
+30,120.0,80.0,9.0,98.0,90.0,high risk,Cardiac evaluation recommended for high heart rate
+39,120.0,75.0,14.0,98.0,82.0,high risk,Monitor carbohydrate intake and blood sugar levels; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+41,120.0,85.0,17.0,98.0,86.0,high risk,Immediate diabetes screening recommended; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+37,120.0,80.0,12.0,98.0,88.0,high risk,Monitor carbohydrate intake and blood sugar levels; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+21,120.0,70.0,6.2,98.0,80.0,high risk,All parameters normal - maintain routine prenatal care
+22,120.0,90.0,6.0,98.0,84.0,high risk,Monitor diastolic BP and practice relaxation techniques; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+26,120.0,80.0,7.0,98.0,85.0,high risk,Reduce caffeine and monitor heart rate
+27,120.0,80.0,7.6,98.0,77.0,high risk,All parameters normal - maintain routine prenatal care
+27,120.0,60.0,6.0,98.0,77.0,high risk,Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+27,115.0,65.0,5.9,98.0,77.0,high risk,All parameters normal - maintain routine prenatal care
+27,115.0,75.0,7.0,98.0,77.0,high risk,All parameters normal - maintain routine prenatal care
+27,115.0,60.0,7.7,98.0,77.0,high risk,Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+27,130.0,60.0,6.0,98.0,77.0,high risk,Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+27,140.0,60.0,6.5,98.0,77.0,high risk,Monitor systolic BP and reduce salt intake; Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+27,135.0,60.0,6.8,98.0,60.0,high risk,Consider compression stockings for low diastolic BP; Medical evaluation for low heart rate; Prenatal monitoring recommended
+21,120.0,60.0,6.3,98.0,58.0,high risk,Consider compression stockings for low diastolic BP; Medical evaluation for low heart rate; Prenatal monitoring recommended
+22,110.0,60.0,5.9,98.0,81.0,high risk,Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+21,90.0,60.0,5.1,98.0,62.0,high risk,Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+20,95.0,60.0,6.5,98.0,64.0,high risk,Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+16,95.0,60.0,5.0,101.0,60.0,high risk,Adolescent pregnancy requires specialized care; Consider compression stockings for low diastolic BP; Seek immediate treatment for high fever; Medical evaluation for low heart rate; Prenatal monitoring recommended
+17,100.0,60.0,5.6,98.0,60.0,high risk,Adolescent pregnancy requires specialized care; Consider compression stockings for low diastolic BP; Medical evaluation for low heart rate; Prenatal monitoring recommended
+19,100.0,60.0,7.8,98.0,60.0,high risk,Consider compression stockings for low diastolic BP; Medical evaluation for low heart rate; Prenatal monitoring recommended
+22,100.0,60.0,6.6,98.0,60.0,high risk,Consider compression stockings for low diastolic BP; Medical evaluation for low heart rate; Prenatal monitoring recommended
+31,100.0,60.0,11.0,98.0,60.0,high risk,Consider compression stockings for low diastolic BP; Medical evaluation for low heart rate; Prenatal monitoring recommended
+25,100.0,60.0,8.0,98.0,60.0,high risk,Consider compression stockings for low diastolic BP; Medical evaluation for low heart rate; Prenatal monitoring recommended
+34,100.0,60.0,13.0,98.0,60.0,high risk,Consider compression stockings for low diastolic BP; Monitor carbohydrate intake and blood sugar levels; Medical evaluation for low heart rate; Prenatal monitoring recommended
+26,100.0,60.0,8.7,98.0,90.0,high risk,Consider compression stockings for low diastolic BP; Cardiac evaluation recommended for high heart rate; Prenatal monitoring recommended
+27,100.0,60.0,7.0,98.0,90.0,high risk,Consider compression stockings for low diastolic BP; Cardiac evaluation recommended for high heart rate; Prenatal monitoring recommended
+43,100.0,60.0,18.0,98.0,90.0,high risk,Consider compression stockings for low diastolic BP; Immediate diabetes screening recommended; Cardiac evaluation recommended for high heart rate; Prenatal monitoring recommended
+36,100.0,60.0,,98.0,90.0,high risk,Consider compression stockings for low diastolic BP; Cardiac evaluation recommended for high heart rate; Prenatal monitoring recommended
+39,100.0,60.0,16.0,98.0,90.0,high risk,Consider compression stockings for low diastolic BP; Immediate diabetes screening recommended; Cardiac evaluation recommended for high heart rate; Prenatal monitoring recommended
+19,100.0,60.0,5.0,98.0,90.0,high risk,Consider compression stockings for low diastolic BP; Cardiac evaluation recommended for high heart rate; Prenatal monitoring recommended
+18,100.0,60.0,5.5,98.0,90.0,high risk,Consider compression stockings for low diastolic BP; Cardiac evaluation recommended for high heart rate; Prenatal monitoring recommended
+20,100.0,60.0,6.0,98.0,90.0,high risk,Consider compression stockings for low diastolic BP; Cardiac evaluation recommended for high heart rate; Prenatal monitoring recommended
+22,100.0,60.0,4.0,98.0,90.0,high risk,Consider compression stockings for low diastolic BP; Check for hypoglycemia symptoms; Cardiac evaluation recommended for high heart rate; Prenatal monitoring recommended
+23,100.0,60.0,7.0,98.0,90.0,high risk,Consider compression stockings for low diastolic BP; Cardiac evaluation recommended for high heart rate; Prenatal monitoring recommended
+24,100.0,80.0,6.1,98.0,88.0,high risk,Reduce caffeine and monitor heart rate
+21,100.0,60.0,6.7,98.0,86.0,high risk,Consider compression stockings for low diastolic BP; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+28,100.0,70.0,8.9,98.0,88.0,high risk,Reduce caffeine and monitor heart rate
+29,100.0,55.0,11.0,98.0,84.0,high risk,Consider compression stockings for low diastolic BP; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+34,100.0,65.0,13.0,98.0,82.0,high risk,Monitor carbohydrate intake and blood sugar levels; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+33,100.0,60.0,11.0,98.0,85.0,high risk,Consider compression stockings for low diastolic BP; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+22,100.0,70.0,8.0,98.0,84.0,high risk,Reduce caffeine and monitor heart rate
+23,100.0,75.0,4.9,98.0,90.0,high risk,Cardiac evaluation recommended for high heart rate
+21,100.0,70.0,5.8,98.0,92.0,high risk,Cardiac evaluation recommended for high heart rate
+20,100.0,80.0,5.0,98.0,78.0,high risk,All parameters normal - maintain routine prenatal care
+17,120.0,75.0,4.0,98.0,77.0,high risk,Adolescent pregnancy requires specialized care; Check for hypoglycemia symptoms
+18,110.0,70.0,4.0,98.0,76.0,high risk,Check for hypoglycemia symptoms
+19,140.0,100.0,4.0,98.0,74.0,high risk,Monitor systolic BP and reduce salt intake; Urgent care needed for diastolic BP; Check for hypoglycemia symptoms; Prenatal monitoring recommended
+22,150.0,110.0,4.7,98.0,70.0,high risk,Monitor systolic BP and reduce salt intake; Urgent care needed for diastolic BP; Prenatal monitoring recommended
+23,130.0,95.0,6.0,98.0,68.0,high risk,Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+29,125.0,85.0,7.3,98.0,70.0,high risk,All parameters normal - maintain routine prenatal care
+21,115.0,75.0,5.0,98.0,90.0,high risk,Cardiac evaluation recommended for high heart rate
+28,95.0,75.0,8.9,98.0,88.0,high risk,Reduce caffeine and monitor heart rate
+22,110.0,70.0,6.0,98.0,84.0,high risk,Reduce caffeine and monitor heart rate
+27,120.0,60.0,9.0,98.0,82.0,high risk,Consider compression stockings for low diastolic BP; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+23,130.0,90.0,4.0,98.0,86.0,high risk,Monitor diastolic BP and practice relaxation techniques; Check for hypoglycemia symptoms; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+26,110.0,80.0,6.0,98.0,88.0,high risk,Reduce caffeine and monitor heart rate
+24,120.0,90.0,4.8,98.0,80.0,high risk,Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+25,90.0,60.0,5.2,98.0,78.0,high risk,Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+21,100.0,60.0,5.7,98.0,77.0,high risk,Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+20,115.0,75.0,4.7,98.0,76.0,high risk,All parameters normal - maintain routine prenatal care
+17,95.0,65.0,3.8,98.0,74.0,high risk,Adolescent pregnancy requires specialized care; Check for hypoglycemia symptoms
+19,115.0,95.0,4.0,98.0,77.0,high risk,Monitor diastolic BP and practice relaxation techniques; Check for hypoglycemia symptoms; Prenatal monitoring recommended
+20,120.0,100.0,6.0,98.0,80.0,high risk,Urgent care needed for diastolic BP; Prenatal monitoring recommended
+30,120.0,90.0,7.0,98.0,88.0,high risk,Monitor diastolic BP and practice relaxation techniques; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+41,140.0,95.0,16.0,98.0,90.0,high risk,Monitor systolic BP and reduce salt intake; Monitor diastolic BP and practice relaxation techniques; Immediate diabetes screening recommended; Cardiac evaluation recommended for high heart rate; Prenatal monitoring recommended
+25,110.0,90.0,6.0,98.0,92.0,high risk,Monitor diastolic BP and practice relaxation techniques; Cardiac evaluation recommended for high heart rate; Prenatal monitoring recommended
+21,150.0,110.0,4.9,98.0,66.0,high risk,Monitor systolic BP and reduce salt intake; Urgent care needed for diastolic BP; Prenatal monitoring recommended
+23,130.0,100.0,5.1,98.0,60.0,high risk,Urgent care needed for diastolic BP; Medical evaluation for low heart rate; Prenatal monitoring recommended
+26,120.0,90.0,6.7,98.0,58.0,high risk,Monitor diastolic BP and practice relaxation techniques; Medical evaluation for low heart rate; Prenatal monitoring recommended
+25,130.0,80.0,15.0,98.0,86.0,high risk,Immediate diabetes screening recommended; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+35,140.0,90.0,13.0,98.0,70.0,high risk,Monitor systolic BP and reduce salt intake; Monitor diastolic BP and practice relaxation techniques; Monitor carbohydrate intake and blood sugar levels; Prenatal monitoring recommended
+29,90.0,70.0,8.0,100.0,80.0,high risk,Increase fluid intake for low systolic BP; Monitor temperature and stay hydrated; Prenatal monitoring recommended
+30,140.0,85.0,7.0,98.0,70.0,high risk,Monitor systolic BP and reduce salt intake; Prenatal monitoring recommended
+23,140.0,80.0,7.01,98.0,70.0,high risk,Monitor systolic BP and reduce salt intake; Prenatal monitoring recommended
+23,130.0,70.0,7.01,98.0,78.0,mid risk,All parameters normal - maintain routine prenatal care
+32,120.0,90.0,6.9,98.0,70.0,mid risk,Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+42,130.0,80.0,18.0,98.0,70.0,high risk,Immediate diabetes screening recommended; Prenatal monitoring recommended
+23,90.0,60.0,7.01,98.0,76.0,low risk,Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+19,120.0,80.0,7.0,98.0,70.0,mid risk,All parameters normal - maintain routine prenatal care
+25,110.0,89.0,7.01,98.0,77.0,low risk,All parameters normal - maintain routine prenatal care
+20,120.0,75.0,7.01,100.0,70.0,mid risk,Monitor temperature and stay hydrated
+48,120.0,80.0,11.0,98.0,88.0,mid risk,Reduce caffeine and monitor heart rate
+15,120.0,80.0,7.01,98.0,70.0,low risk,Adolescent pregnancy requires specialized care
+25,140.0,100.0,7.01,98.0,80.0,high risk,Monitor systolic BP and reduce salt intake; Urgent care needed for diastolic BP; Prenatal monitoring recommended
+30,120.0,80.0,6.9,101.0,76.0,mid risk,Seek immediate treatment for high fever
+10,70.0,50.0,6.9,98.0,70.0,low risk,Adolescent pregnancy requires specialized care; Medical evaluation needed for low systolic BP; Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+40,140.0,100.0,18.0,98.0,90.0,high risk,Monitor systolic BP and reduce salt intake; Urgent care needed for diastolic BP; Immediate diabetes screening recommended; Cardiac evaluation recommended for high heart rate; Prenatal monitoring recommended
+50,140.0,80.0,6.7,98.0,70.0,mid risk,Monitor systolic BP and reduce salt intake; Prenatal monitoring recommended
+22,100.0,65.0,7.2,98.0,70.0,low risk,All parameters normal - maintain routine prenatal care
+49,120.0,90.0,7.2,98.0,77.0,low risk,Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+28,90.0,60.0,7.2,98.0,82.0,low risk,Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+20,100.0,90.0,7.1,98.0,88.0,low risk,Monitor diastolic BP and practice relaxation techniques; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+23,100.0,85.0,7.1,98.0,66.0,low risk,All parameters normal - maintain routine prenatal care
+22,120.0,90.0,7.1,98.0,82.0,low risk,Monitor diastolic BP and practice relaxation techniques; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+21,120.0,80.0,7.1,98.0,77.0,low risk,All parameters normal - maintain routine prenatal care
+21,75.0,50.0,6.1,98.0,70.0,low risk,Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+12,95.0,60.0,6.1,102.0,60.0,low risk,Adolescent pregnancy requires specialized care; Consider compression stockings for low diastolic BP; Seek immediate treatment for high fever; Medical evaluation for low heart rate; Prenatal monitoring recommended
+60,120.0,80.0,6.1,98.0,75.0,low risk,All parameters normal - maintain routine prenatal care
+55,100.0,65.0,6.1,98.0,66.0,low risk,All parameters normal - maintain routine prenatal care
+45,120.0,95.0,6.1,98.0,66.0,low risk,Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+23,120.0,90.0,6.7,98.0,70.0,low risk,Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+32,120.0,90.0,6.4,98.0,70.0,low risk,Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+42,120.0,80.0,6.4,98.0,70.0,low risk,All parameters normal - maintain routine prenatal care
+23,90.0,60.0,6.4,98.0,76.0,low risk,Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+15,76.0,49.0,6.4,98.0,77.0,low risk,Adolescent pregnancy requires specialized care; Increase fluid intake for low systolic BP; Medical evaluation needed for low diastolic BP; Prenatal monitoring recommended
+15,120.0,80.0,7.2,98.0,70.0,low risk,Adolescent pregnancy requires specialized care
+15,80.0,60.0,7.0,98.0,80.0,low risk,Adolescent pregnancy requires specialized care; Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+12,95.0,60.0,7.2,98.0,77.0,low risk,Adolescent pregnancy requires specialized care; Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+29,90.0,70.0,6.7,98.0,80.0,mid risk,Increase fluid intake for low systolic BP; Prenatal monitoring recommended
+31,120.0,60.0,6.1,98.0,76.0,mid risk,Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+29,130.0,70.0,6.7,98.0,78.0,mid risk,All parameters normal - maintain routine prenatal care
+17,85.0,60.0,9.0,102.0,86.0,mid risk,Adolescent pregnancy requires specialized care; Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Seek immediate treatment for high fever; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+20,110.0,60.0,7.0,100.0,70.0,mid risk,Consider compression stockings for low diastolic BP; Monitor temperature and stay hydrated; Prenatal monitoring recommended
+32,120.0,65.0,6.0,101.0,76.0,mid risk,Seek immediate treatment for high fever
+26,85.0,60.0,6.0,101.0,86.0,mid risk,Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Seek immediate treatment for high fever; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+29,130.0,70.0,7.7,98.0,78.0,mid risk,All parameters normal - maintain routine prenatal care
+54,130.0,70.0,12.0,98.0,67.0,mid risk,Monitor carbohydrate intake and blood sugar levels; Prenatal monitoring recommended
+44,120.0,90.0,16.0,98.0,80.0,mid risk,Monitor diastolic BP and practice relaxation techniques; Immediate diabetes screening recommended; Prenatal monitoring recommended
+23,130.0,70.0,6.9,98.0,70.0,mid risk,All parameters normal - maintain routine prenatal care
+22,85.0,60.0,6.9,98.0,76.0,mid risk,Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+55,120.0,90.0,12.0,98.0,70.0,mid risk,Monitor diastolic BP and practice relaxation techniques; Monitor carbohydrate intake and blood sugar levels; Prenatal monitoring recommended
+35,120.0,80.0,6.9,98.0,78.0,mid risk,All parameters normal - maintain routine prenatal care
+21,90.0,60.0,6.9,98.0,86.0,mid risk,Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+16,90.0,65.0,6.9,98.0,76.0,mid risk,Adolescent pregnancy requires specialized care; Increase fluid intake for low systolic BP; Prenatal monitoring recommended
+33,115.0,65.0,7.0,98.0,70.0,mid risk,All parameters normal - maintain routine prenatal care
+12,95.0,60.0,6.9,98.0,65.0,mid risk,Adolescent pregnancy requires specialized care; Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+28,120.0,90.0,6.9,98.0,70.0,mid risk,Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+21,90.0,65.0,6.9,98.0,76.0,mid risk,Increase fluid intake for low systolic BP; Prenatal monitoring recommended
+18,90.0,60.0,6.9,98.0,70.0,mid risk,Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+21,120.0,80.0,6.9,98.0,76.0,mid risk,All parameters normal - maintain routine prenatal care
+16,100.0,70.0,6.9,98.0,80.0,mid risk,Adolescent pregnancy requires specialized care
+19,120.0,75.0,6.9,98.0,66.0,mid risk,All parameters normal - maintain routine prenatal care
+23,100.0,85.0,6.9,98.0,66.0,mid risk,All parameters normal - maintain routine prenatal care
+22,120.0,90.0,7.8,98.0,82.0,mid risk,Monitor diastolic BP and practice relaxation techniques; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+60,120.0,85.0,15.0,98.0,60.0,mid risk,Immediate diabetes screening recommended; Medical evaluation for low heart rate; Prenatal monitoring recommended
+13,90.0,65.0,7.8,101.0,80.0,mid risk,Adolescent pregnancy requires specialized care; Increase fluid intake for low systolic BP; Seek immediate treatment for high fever; Prenatal monitoring recommended
+23,120.0,90.0,7.8,98.0,60.0,mid risk,Monitor diastolic BP and practice relaxation techniques; Medical evaluation for low heart rate; Prenatal monitoring recommended
+28,115.0,60.0,7.8,101.0,86.0,mid risk,Consider compression stockings for low diastolic BP; Seek immediate treatment for high fever; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+50,120.0,80.0,7.8,98.0,70.0,mid risk,All parameters normal - maintain routine prenatal care
+29,130.0,70.0,7.8,98.0,78.0,mid risk,All parameters normal - maintain routine prenatal care
+19,120.0,85.0,7.8,98.0,60.0,mid risk,Medical evaluation for low heart rate
+60,90.0,65.0,6.8,98.0,77.0,mid risk,Increase fluid intake for low systolic BP; Prenatal monitoring recommended
+55,120.0,90.0,6.8,98.0,66.0,mid risk,Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+25,120.0,80.0,6.8,98.0,66.0,mid risk,All parameters normal - maintain routine prenatal care
+23,140.0,90.0,6.8,98.0,70.0,high risk,Monitor systolic BP and reduce salt intake; Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+40,160.0,100.0,19.0,98.0,77.0,high risk,Urgent medical attention needed for systolic BP; Urgent care needed for diastolic BP; Immediate diabetes screening recommended; Prenatal monitoring recommended
+32,140.0,90.0,18.0,98.0,88.0,high risk,Monitor systolic BP and reduce salt intake; Monitor diastolic BP and practice relaxation techniques; Immediate diabetes screening recommended; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+35,140.0,100.0,7.5,98.0,66.0,high risk,Monitor systolic BP and reduce salt intake; Urgent care needed for diastolic BP; Prenatal monitoring recommended
+29,120.0,70.0,9.0,98.0,80.0,high risk,All parameters normal - maintain routine prenatal care
+22,90.0,60.0,7.5,102.0,60.0,high risk,Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Seek immediate treatment for high fever; Medical evaluation for low heart rate; Prenatal monitoring recommended
+40,120.0,85.0,15.0,98.0,60.0,high risk,Immediate diabetes screening recommended; Medical evaluation for low heart rate; Prenatal monitoring recommended
+18,120.0,80.0,6.9,102.0,76.0,mid risk,Seek immediate treatment for high fever
+32,140.0,100.0,6.9,98.0,78.0,high risk,Monitor systolic BP and reduce salt intake; Urgent care needed for diastolic BP; Prenatal monitoring recommended
+17,90.0,60.0,6.9,101.0,76.0,mid risk,Adolescent pregnancy requires specialized care; Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Seek immediate treatment for high fever; Prenatal monitoring recommended
+17,90.0,63.0,6.9,101.0,70.0,mid risk,Adolescent pregnancy requires specialized care; Increase fluid intake for low systolic BP; Seek immediate treatment for high fever; Prenatal monitoring recommended
+25,120.0,90.0,6.7,101.0,80.0,mid risk,Monitor diastolic BP and practice relaxation techniques; Seek immediate treatment for high fever; Prenatal monitoring recommended
+17,120.0,80.0,6.7,102.0,76.0,mid risk,Adolescent pregnancy requires specialized care; Seek immediate treatment for high fever
+14,90.0,65.0,7.0,101.0,70.0,high risk,Adolescent pregnancy requires specialized care; Increase fluid intake for low systolic BP; Seek immediate treatment for high fever; Prenatal monitoring recommended
+15,80.0,60.0,6.7,98.0,80.0,low risk,Adolescent pregnancy requires specialized care; Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+15,100.0,65.0,6.7,98.0,76.0,low risk,Adolescent pregnancy requires specialized care
+12,95.0,60.0,6.7,98.0,77.0,low risk,Adolescent pregnancy requires specialized care; Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+18,100.0,70.0,6.7,98.0,76.0,low risk,All parameters normal - maintain routine prenatal care
+21,100.0,85.0,6.7,98.0,70.0,low risk,All parameters normal - maintain routine prenatal care
+17,110.0,75.0,12.0,101.0,76.0,high risk,Adolescent pregnancy requires specialized care; Monitor carbohydrate intake and blood sugar levels; Seek immediate treatment for high fever; Prenatal monitoring recommended
+25,120.0,90.0,7.5,98.0,80.0,low risk,Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+23,85.0,65.0,7.5,98.0,70.0,low risk,Increase fluid intake for low systolic BP; Prenatal monitoring recommended
+12,95.0,60.0,7.5,98.0,65.0,low risk,Adolescent pregnancy requires specialized care; Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+28,120.0,90.0,7.5,98.0,70.0,low risk,Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+40,120.0,90.0,12.0,98.0,80.0,high risk,Monitor diastolic BP and practice relaxation techniques; Monitor carbohydrate intake and blood sugar levels; Prenatal monitoring recommended
+12,90.0,60.0,7.9,102.0,66.0,high risk,Adolescent pregnancy requires specialized care; Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Seek immediate treatment for high fever; Prenatal monitoring recommended
+35,140.0,100.0,8.0,98.0,66.0,high risk,Monitor systolic BP and reduce salt intake; Urgent care needed for diastolic BP; Prenatal monitoring recommended
+13,90.0,65.0,7.9,101.0,80.0,mid risk,Adolescent pregnancy requires specialized care; Increase fluid intake for low systolic BP; Seek immediate treatment for high fever; Prenatal monitoring recommended
+17,90.0,65.0,6.1,103.0,67.0,high risk,Adolescent pregnancy requires specialized care; Increase fluid intake for low systolic BP; Seek immediate treatment for high fever; Prenatal monitoring recommended
+28,83.0,60.0,8.0,101.0,86.0,high risk,Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Seek immediate treatment for high fever; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+29,130.0,70.0,6.1,98.0,78.0,mid risk,All parameters normal - maintain routine prenatal care
+33,120.0,75.0,10.0,98.0,70.0,high risk,All parameters normal - maintain routine prenatal care
+28,85.0,60.0,9.0,101.0,86.0,mid risk,Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Seek immediate treatment for high fever; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+55,140.0,80.0,7.2,101.0,76.0,high risk,Monitor systolic BP and reduce salt intake; Seek immediate treatment for high fever; Prenatal monitoring recommended
+40,140.0,100.0,18.0,98.0,77.0,high risk,Monitor systolic BP and reduce salt intake; Urgent care needed for diastolic BP; Immediate diabetes screening recommended; Prenatal monitoring recommended
+28,120.0,80.0,9.0,102.0,76.0,high risk,Seek immediate treatment for high fever
+32,140.0,100.0,8.0,98.0,70.0,high risk,Monitor systolic BP and reduce salt intake; Urgent care needed for diastolic BP; Prenatal monitoring recommended
+17,90.0,60.0,11.0,101.0,78.0,high risk,Adolescent pregnancy requires specialized care; Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Seek immediate treatment for high fever; Prenatal monitoring recommended
+19,90.0,65.0,11.0,101.0,70.0,high risk,Increase fluid intake for low systolic BP; Seek immediate treatment for high fever; Prenatal monitoring recommended
+18,100.0,70.0,6.8,98.0,76.0,low risk,All parameters normal - maintain routine prenatal care
+21,100.0,85.0,6.9,98.0,70.0,low risk,All parameters normal - maintain routine prenatal care
+17,110.0,75.0,13.0,101.0,76.0,high risk,Adolescent pregnancy requires specialized care; Monitor carbohydrate intake and blood sugar levels; Seek immediate treatment for high fever; Prenatal monitoring recommended
+25,120.0,90.0,15.0,98.0,80.0,high risk,Monitor diastolic BP and practice relaxation techniques; Immediate diabetes screening recommended; Prenatal monitoring recommended
+10,85.0,65.0,6.9,98.0,70.0,low risk,Adolescent pregnancy requires specialized care; Increase fluid intake for low systolic BP; Prenatal monitoring recommended
+40,120.0,90.0,6.9,98.0,80.0,low risk,Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+55,110.0,85.0,6.9,98.0,88.0,low risk,Reduce caffeine and monitor heart rate
+25,100.0,90.0,6.9,98.0,76.0,low risk,Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+35,120.0,80.0,6.9,98.0,80.0,low risk,All parameters normal - maintain routine prenatal care
+22,100.0,65.0,6.9,98.0,70.0,low risk,All parameters normal - maintain routine prenatal care
+49,120.0,90.0,6.9,98.0,77.0,low risk,Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+28,90.0,60.0,6.9,98.0,82.0,low risk,Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+12,90.0,60.0,8.0,102.0,66.0,high risk,Adolescent pregnancy requires specialized care; Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Seek immediate treatment for high fever; Prenatal monitoring recommended
+20,100.0,90.0,7.0,98.0,88.0,low risk,Monitor diastolic BP and practice relaxation techniques; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+23,100.0,85.0,7.0,98.0,66.0,low risk,All parameters normal - maintain routine prenatal care
+22,120.0,90.0,7.0,98.0,82.0,low risk,Monitor diastolic BP and practice relaxation techniques; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+21,120.0,80.0,7.0,98.0,77.0,low risk,All parameters normal - maintain routine prenatal care
+35,140.0,100.0,9.0,98.0,66.0,high risk,Monitor systolic BP and reduce salt intake; Urgent care needed for diastolic BP; Prenatal monitoring recommended
+21,75.0,50.0,7.7,98.0,60.0,low risk,Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Medical evaluation for low heart rate; Prenatal monitoring recommended
+12,90.0,60.0,11.0,102.0,60.0,high risk,Adolescent pregnancy requires specialized care; Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Seek immediate treatment for high fever; Medical evaluation for low heart rate; Prenatal monitoring recommended
+60,120.0,80.0,7.7,98.0,75.0,low risk,All parameters normal - maintain routine prenatal care
+55,100.0,65.0,7.7,98.0,66.0,low risk,All parameters normal - maintain routine prenatal care
+45,120.0,95.0,7.7,98.0,66.0,low risk,Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+35,100.0,70.0,7.7,98.0,66.0,low risk,All parameters normal - maintain routine prenatal care
+22,120.0,85.0,7.7,98.0,88.0,low risk,Reduce caffeine and monitor heart rate
+13,90.0,65.0,9.0,101.0,80.0,high risk,Adolescent pregnancy requires specialized care; Increase fluid intake for low systolic BP; Seek immediate treatment for high fever; Prenatal monitoring recommended
+23,120.0,90.0,7.7,98.0,60.0,low risk,Monitor diastolic BP and practice relaxation techniques; Medical evaluation for low heart rate; Prenatal monitoring recommended
+50,120.0,80.0,7.7,98.0,70.0,low risk,All parameters normal - maintain routine prenatal care
+19,90.0,70.0,7.7,98.0,80.0,low risk,Increase fluid intake for low systolic BP; Prenatal monitoring recommended
+30,120.0,80.0,7.7,98.0,70.0,low risk,All parameters normal - maintain routine prenatal care
+23,120.0,80.0,7.7,98.0,70.0,low risk,All parameters normal - maintain routine prenatal care
+32,120.0,90.0,7.7,98.0,70.0,low risk,Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+42,120.0,80.0,7.7,98.0,70.0,low risk,All parameters normal - maintain routine prenatal care
+23,90.0,60.0,7.7,98.0,76.0,low risk,Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+15,75.0,49.0,7.7,98.0,77.0,low risk,Adolescent pregnancy requires specialized care; Increase fluid intake for low systolic BP; Medical evaluation needed for low diastolic BP; Prenatal monitoring recommended
+15,120.0,80.0,7.7,98.0,70.0,low risk,Adolescent pregnancy requires specialized care
+25,120.0,80.0,7.7,98.0,66.0,low risk,All parameters normal - maintain routine prenatal care
+22,100.0,65.0,6.9,98.0,80.0,low risk,All parameters normal - maintain routine prenatal care
+12,120.0,95.0,6.9,98.0,60.0,low risk,Adolescent pregnancy requires specialized care; Monitor diastolic BP and practice relaxation techniques; Medical evaluation for low heart rate; Prenatal monitoring recommended
+19,120.0,85.0,6.9,98.0,60.0,low risk,Medical evaluation for low heart rate
+60,90.0,65.0,6.9,98.0,77.0,low risk,Increase fluid intake for low systolic BP; Prenatal monitoring recommended
+55,120.0,90.0,6.9,98.0,76.0,low risk,Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+35,90.0,65.0,6.9,98.0,75.0,low risk,Increase fluid intake for low systolic BP; Prenatal monitoring recommended
+51,85.0,60.0,6.9,98.0,66.0,low risk,Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+62,120.0,80.0,6.9,98.0,66.0,low risk,All parameters normal - maintain routine prenatal care
+25,90.0,70.0,6.9,98.0,66.0,low risk,Increase fluid intake for low systolic BP; Prenatal monitoring recommended
+21,120.0,80.0,6.9,98.0,88.0,low risk,Reduce caffeine and monitor heart rate
+22,120.0,60.0,15.0,98.0,80.0,high risk,Consider compression stockings for low diastolic BP; Immediate diabetes screening recommended; Prenatal monitoring recommended
+35,85.0,60.0,19.0,98.0,86.0,high risk,Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Immediate diabetes screening recommended; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+43,120.0,90.0,18.0,98.0,70.0,high risk,Monitor diastolic BP and practice relaxation techniques; Immediate diabetes screening recommended; Prenatal monitoring recommended
+12,120.0,80.0,6.9,98.0,80.0,low risk,Adolescent pregnancy requires specialized care
+65,90.0,60.0,6.9,98.0,70.0,low risk,Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+60,120.0,80.0,6.9,98.0,76.0,low risk,All parameters normal - maintain routine prenatal care
+25,120.0,90.0,6.9,98.0,70.0,low risk,Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+22,90.0,65.0,6.9,98.0,78.0,low risk,Increase fluid intake for low systolic BP; Prenatal monitoring recommended
+66,85.0,60.0,6.9,98.0,86.0,low risk,Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+56,120.0,80.0,13.0,98.0,70.0,high risk,Monitor carbohydrate intake and blood sugar levels; Prenatal monitoring recommended
+35,90.0,70.0,6.9,98.0,70.0,low risk,Increase fluid intake for low systolic BP; Prenatal monitoring recommended
+43,120.0,80.0,15.0,98.0,76.0,high risk,Immediate diabetes screening recommended; Prenatal monitoring recommended
+35,120.0,60.0,6.9,98.0,70.0,low risk,Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+45,120.0,80.0,6.9,103.0,70.0,low risk,Seek immediate treatment for high fever
+70,85.0,60.0,6.9,102.0,70.0,low risk,Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Seek immediate treatment for high fever; Prenatal monitoring recommended
+65,120.0,90.0,6.9,103.0,76.0,low risk,Monitor diastolic BP and practice relaxation techniques; Seek immediate treatment for high fever; Prenatal monitoring recommended
+55,120.0,80.0,6.9,102.0,80.0,low risk,Seek immediate treatment for high fever
+45,90.0,60.0,18.0,101.0,70.0,high risk,Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Immediate diabetes screening recommended; Seek immediate treatment for high fever; Prenatal monitoring recommended
+22,120.0,80.0,6.9,103.0,76.0,low risk,Seek immediate treatment for high fever
+12,95.0,60.0,6.9,98.0,77.0,low risk,Adolescent pregnancy requires specialized care; Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+18,100.0,70.0,6.9,98.0,76.0,low risk,All parameters normal - maintain routine prenatal care
+17,110.0,75.0,6.9,101.0,76.0,high risk,Adolescent pregnancy requires specialized care; Seek immediate treatment for high fever
+25,120.0,90.0,6.9,98.0,80.0,low risk,Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+40,120.0,90.0,6.9,98.0,80.0,high risk,Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+55,110.0,85.0,6.9,98.0,88.0,high risk,Reduce caffeine and monitor heart rate
+25,100.0,90.0,6.9,98.0,76.0,high risk,Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+35,120.0,80.0,6.9,98.0,80.0,high risk,All parameters normal - maintain routine prenatal care
+21,120.0,80.0,7.8,98.0,77.0,low risk,All parameters normal - maintain routine prenatal care
+35,140.0,100.0,7.8,98.0,66.0,high risk,Monitor systolic BP and reduce salt intake; Urgent care needed for diastolic BP; Prenatal monitoring recommended
+21,75.0,50.0,7.8,98.0,60.0,low risk,Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Medical evaluation for low heart rate; Prenatal monitoring recommended
+12,90.0,60.0,7.8,102.0,60.0,high risk,Adolescent pregnancy requires specialized care; Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Seek immediate treatment for high fever; Medical evaluation for low heart rate; Prenatal monitoring recommended
+60,120.0,80.0,7.8,98.0,75.0,high risk,All parameters normal - maintain routine prenatal care
+55,100.0,65.0,7.8,98.0,66.0,low risk,All parameters normal - maintain routine prenatal care
+45,120.0,95.0,7.8,98.0,66.0,low risk,Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+35,100.0,70.0,7.8,98.0,66.0,low risk,All parameters normal - maintain routine prenatal care
+22,120.0,85.0,7.8,98.0,88.0,low risk,Reduce caffeine and monitor heart rate
+17,90.0,65.0,7.8,103.0,67.0,high risk,Adolescent pregnancy requires specialized care; Increase fluid intake for low systolic BP; Seek immediate treatment for high fever; Prenatal monitoring recommended
+17,85.0,69.0,7.8,102.0,86.0,high risk,Adolescent pregnancy requires specialized care; Increase fluid intake for low systolic BP; Seek immediate treatment for high fever; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+12,120.0,95.0,7.8,98.0,60.0,low risk,Adolescent pregnancy requires specialized care; Monitor diastolic BP and practice relaxation techniques; Medical evaluation for low heart rate; Prenatal monitoring recommended
+35,100.0,70.0,7.8,98.0,60.0,low risk,Medical evaluation for low heart rate
+22,100.0,65.0,6.8,98.0,88.0,low risk,Reduce caffeine and monitor heart rate
+12,120.0,95.0,6.8,98.0,60.0,mid risk,Adolescent pregnancy requires specialized care; Monitor diastolic BP and practice relaxation techniques; Medical evaluation for low heart rate; Prenatal monitoring recommended
+35,100.0,70.0,6.8,98.0,60.0,mid risk,Medical evaluation for low heart rate
+19,120.0,90.0,6.8,98.0,60.0,mid risk,Monitor diastolic BP and practice relaxation techniques; Medical evaluation for low heart rate; Prenatal monitoring recommended
+50,130.0,80.0,16.0,102.0,76.0,mid risk,Immediate diabetes screening recommended; Seek immediate treatment for high fever; Prenatal monitoring recommended
+27,120.0,90.0,6.8,102.0,68.0,mid risk,Monitor diastolic BP and practice relaxation techniques; Seek immediate treatment for high fever; Prenatal monitoring recommended
+60,140.0,90.0,12.0,98.0,77.0,high risk,Monitor systolic BP and reduce salt intake; Monitor diastolic BP and practice relaxation techniques; Monitor carbohydrate intake and blood sugar levels; Prenatal monitoring recommended
+55,100.0,70.0,6.8,101.0,80.0,mid risk,Seek immediate treatment for high fever
+60,140.0,80.0,16.0,98.0,66.0,high risk,Monitor systolic BP and reduce salt intake; Immediate diabetes screening recommended; Prenatal monitoring recommended
+12,120.0,90.0,6.8,98.0,80.0,mid risk,Adolescent pregnancy requires specialized care; Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+17,140.0,100.0,6.8,103.0,80.0,high risk,Adolescent pregnancy requires specialized care; Monitor systolic BP and reduce salt intake; Urgent care needed for diastolic BP; Seek immediate treatment for high fever; Prenatal monitoring recommended
+60,120.0,80.0,6.8,98.0,77.0,mid risk,All parameters normal - maintain routine prenatal care
+36,140.0,100.0,6.8,102.0,76.0,high risk,Monitor systolic BP and reduce salt intake; Urgent care needed for diastolic BP; Seek immediate treatment for high fever; Prenatal monitoring recommended
+25,120.0,100.0,6.8,98.0,60.0,mid risk,Urgent care needed for diastolic BP; Medical evaluation for low heart rate; Prenatal monitoring recommended
+22,90.0,60.0,6.8,98.0,77.0,mid risk,Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+35,140.0,80.0,13.0,98.0,70.0,high risk,Monitor systolic BP and reduce salt intake; Monitor carbohydrate intake and blood sugar levels; Prenatal monitoring recommended
+30,120.0,80.0,6.8,98.0,70.0,mid risk,All parameters normal - maintain routine prenatal care
+35,120.0,60.0,6.1,98.0,76.0,mid risk,Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+23,130.0,70.0,6.8,98.0,78.0,mid risk,All parameters normal - maintain routine prenatal care
+43,130.0,80.0,18.0,98.0,70.0,mid risk,Immediate diabetes screening recommended; Prenatal monitoring recommended
+30,120.0,75.0,6.8,98.0,70.0,mid risk,All parameters normal - maintain routine prenatal care
+32,120.0,80.0,6.8,98.0,70.0,mid risk,All parameters normal - maintain routine prenatal care
+42,130.0,80.0,18.0,98.0,70.0,mid risk,Immediate diabetes screening recommended; Prenatal monitoring recommended
+48,120.0,80.0,11.0,98.0,88.0,low risk,Reduce caffeine and monitor heart rate
+31,110.0,90.0,6.8,100.0,70.0,mid risk,Monitor diastolic BP and practice relaxation techniques; Monitor temperature and stay hydrated; Prenatal monitoring recommended
+17,90.0,60.0,7.9,101.0,76.0,low risk,Adolescent pregnancy requires specialized care; Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Seek immediate treatment for high fever; Prenatal monitoring recommended
+15,76.0,49.0,7.9,98.0,77.0,low risk,Adolescent pregnancy requires specialized care; Increase fluid intake for low systolic BP; Medical evaluation needed for low diastolic BP; Prenatal monitoring recommended
+19,120.0,75.0,7.9,98.0,70.0,low risk,All parameters normal - maintain routine prenatal care
+15,120.0,80.0,7.9,98.0,70.0,low risk,Adolescent pregnancy requires specialized care
+25,120.0,80.0,7.9,98.0,66.0,mid risk,All parameters normal - maintain routine prenatal care
+22,100.0,65.0,7.9,98.0,80.0,low risk,All parameters normal - maintain routine prenatal care
+35,100.0,70.0,7.9,98.0,60.0,low risk,Medical evaluation for low heart rate
+19,120.0,85.0,7.9,98.0,60.0,low risk,Medical evaluation for low heart rate
+60,90.0,65.0,7.9,98.0,77.0,low risk,Increase fluid intake for low systolic BP; Prenatal monitoring recommended
+50,120.0,80.0,7.9,98.0,70.0,low risk,All parameters normal - maintain routine prenatal care
+23,120.0,90.0,7.9,98.0,70.0,mid risk,Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+29,130.0,70.0,7.9,98.0,78.0,mid risk,All parameters normal - maintain routine prenatal care
+17,85.0,60.0,7.9,102.0,86.0,low risk,Adolescent pregnancy requires specialized care; Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Seek immediate treatment for high fever; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+32,120.0,90.0,7.9,98.0,70.0,low risk,Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+42,120.0,80.0,7.9,98.0,70.0,low risk,All parameters normal - maintain routine prenatal care
+23,90.0,60.0,7.9,98.0,76.0,low risk,Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+16,120.0,75.0,7.9,98.0,7.0,low risk,Adolescent pregnancy requires specialized care; Medical evaluation for low heart rate
+17,70.0,50.0,7.9,98.0,70.0,low risk,Adolescent pregnancy requires specialized care; Medical evaluation needed for low systolic BP; Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+18,120.0,80.0,7.9,102.0,76.0,mid risk,Seek immediate treatment for high fever
+17,90.0,60.0,7.5,101.0,76.0,low risk,Adolescent pregnancy requires specialized care; Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Seek immediate treatment for high fever; Prenatal monitoring recommended
+17,90.0,63.0,7.5,101.0,70.0,low risk,Adolescent pregnancy requires specialized care; Increase fluid intake for low systolic BP; Seek immediate treatment for high fever; Prenatal monitoring recommended
+25,120.0,90.0,7.5,101.0,80.0,low risk,Monitor diastolic BP and practice relaxation techniques; Seek immediate treatment for high fever; Prenatal monitoring recommended
+17,120.0,80.0,7.5,102.0,76.0,low risk,Adolescent pregnancy requires specialized care; Seek immediate treatment for high fever
+19,90.0,65.0,7.5,101.0,70.0,low risk,Increase fluid intake for low systolic BP; Seek immediate treatment for high fever; Prenatal monitoring recommended
+15,80.0,60.0,7.5,98.0,80.0,low risk,Adolescent pregnancy requires specialized care; Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+18,85.0,60.0,7.5,101.0,86.0,mid risk,Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Seek immediate treatment for high fever; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+19,90.0,70.0,7.5,98.0,80.0,low risk,Increase fluid intake for low systolic BP; Prenatal monitoring recommended
+23,120.0,90.0,7.5,98.0,70.0,low risk,Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+29,130.0,70.0,7.5,98.0,78.0,mid risk,All parameters normal - maintain routine prenatal care
+17,85.0,60.0,7.5,102.0,86.0,low risk,Adolescent pregnancy requires specialized care; Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Seek immediate treatment for high fever; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+15,78.0,49.0,7.5,98.0,77.0,low risk,Adolescent pregnancy requires specialized care; Increase fluid intake for low systolic BP; Medical evaluation needed for low diastolic BP; Prenatal monitoring recommended
+23,120.0,75.0,8.0,98.0,70.0,mid risk,All parameters normal - maintain routine prenatal care
+15,120.0,80.0,7.5,98.0,70.0,mid risk,Adolescent pregnancy requires specialized care
+30,120.0,80.0,7.5,101.0,76.0,mid risk,Seek immediate treatment for high fever
+16,70.0,50.0,7.5,100.0,70.0,low risk,Adolescent pregnancy requires specialized care; Medical evaluation needed for low systolic BP; Consider compression stockings for low diastolic BP; Monitor temperature and stay hydrated; Prenatal monitoring recommended
+16,100.0,70.0,7.5,98.0,80.0,low risk,Adolescent pregnancy requires specialized care
+19,120.0,75.0,7.5,98.0,66.0,low risk,All parameters normal - maintain routine prenatal care
+22,100.0,65.0,7.5,98.0,70.0,low risk,All parameters normal - maintain routine prenatal care
+28,90.0,60.0,7.5,98.0,82.0,low risk,Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+12,90.0,60.0,7.5,102.0,66.0,low risk,Adolescent pregnancy requires specialized care; Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Seek immediate treatment for high fever; Prenatal monitoring recommended
+20,100.0,90.0,7.5,98.0,88.0,low risk,Monitor diastolic BP and practice relaxation techniques; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+23,100.0,85.0,7.5,98.0,66.0,low risk,All parameters normal - maintain routine prenatal care
+22,120.0,90.0,7.5,98.0,82.0,low risk,Monitor diastolic BP and practice relaxation techniques; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+40,120.0,95.0,11.0,98.0,80.0,mid risk,Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+21,75.0,50.0,7.5,98.0,60.0,low risk,Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Medical evaluation for low heart rate; Prenatal monitoring recommended
+12,90.0,60.0,7.5,102.0,60.0,low risk,Adolescent pregnancy requires specialized care; Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Seek immediate treatment for high fever; Medical evaluation for low heart rate; Prenatal monitoring recommended
+50,130.0,100.0,16.0,98.0,75.0,mid risk,Urgent care needed for diastolic BP; Immediate diabetes screening recommended; Prenatal monitoring recommended
+55,100.0,65.0,7.5,98.0,66.0,low risk,All parameters normal - maintain routine prenatal care
+45,120.0,95.0,7.5,98.0,66.0,low risk,Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+35,100.0,70.0,7.5,98.0,66.0,low risk,All parameters normal - maintain routine prenatal care
+22,120.0,85.0,7.5,98.0,88.0,low risk,Reduce caffeine and monitor heart rate
+13,90.0,65.0,7.5,101.0,80.0,low risk,Adolescent pregnancy requires specialized care; Increase fluid intake for low systolic BP; Seek immediate treatment for high fever; Prenatal monitoring recommended
+23,120.0,90.0,7.5,98.0,60.0,low risk,Monitor diastolic BP and practice relaxation techniques; Medical evaluation for low heart rate; Prenatal monitoring recommended
+17,90.0,65.0,7.5,103.0,67.0,low risk,Adolescent pregnancy requires specialized care; Increase fluid intake for low systolic BP; Seek immediate treatment for high fever; Prenatal monitoring recommended
+28,115.0,60.0,7.5,101.0,86.0,mid risk,Consider compression stockings for low diastolic BP; Seek immediate treatment for high fever; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+59,120.0,80.0,7.5,98.0,70.0,low risk,All parameters normal - maintain routine prenatal care
+23,120.0,80.0,7.5,98.0,70.0,low risk,All parameters normal - maintain routine prenatal care
+23,120.0,80.0,7.5,98.0,70.0,mid risk,All parameters normal - maintain routine prenatal care
+20,120.0,75.0,7.5,98.0,70.0,low risk,All parameters normal - maintain routine prenatal care
+24,120.0,80.0,7.5,98.0,66.0,low risk,All parameters normal - maintain routine prenatal care
+19,120.0,76.0,7.5,98.0,66.0,low risk,All parameters normal - maintain routine prenatal care
+22,100.0,65.0,7.5,98.0,70.0,mid risk,All parameters normal - maintain routine prenatal care
+49,120.0,90.0,7.5,98.0,77.0,mid risk,Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+28,90.0,60.0,7.5,98.0,82.0,mid risk,Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+12,90.0,60.0,7.5,102.0,66.0,mid risk,Adolescent pregnancy requires specialized care; Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Seek immediate treatment for high fever; Prenatal monitoring recommended
+20,100.0,90.0,7.5,98.0,88.0,mid risk,Monitor diastolic BP and practice relaxation techniques; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+23,100.0,85.0,7.5,98.0,66.0,mid risk,All parameters normal - maintain routine prenatal care
+22,120.0,90.0,7.5,98.0,82.0,mid risk,Monitor diastolic BP and practice relaxation techniques; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+21,120.0,80.0,7.5,98.0,77.0,mid risk,All parameters normal - maintain routine prenatal care
+60,120.0,80.0,7.5,98.0,75.0,mid risk,All parameters normal - maintain routine prenatal care
+41,120.0,80.0,7.5,98.0,75.0,low risk,All parameters normal - maintain routine prenatal care
+13,90.0,65.0,7.5,101.0,80.0,high risk,Adolescent pregnancy requires specialized care; Increase fluid intake for low systolic BP; Seek immediate treatment for high fever; Prenatal monitoring recommended
+17,90.0,65.0,7.5,103.0,67.0,mid risk,Adolescent pregnancy requires specialized care; Increase fluid intake for low systolic BP; Seek immediate treatment for high fever; Prenatal monitoring recommended
+27,135.0,60.0,7.5,101.0,86.0,high risk,Consider compression stockings for low diastolic BP; Seek immediate treatment for high fever; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+34,110.0,70.0,7.0,98.0,80.0,high risk,All parameters normal - maintain routine prenatal care
+32,120.0,80.0,7.5,98.0,70.0,low risk,All parameters normal - maintain routine prenatal care
+17,85.0,60.0,7.5,101.0,86.0,high risk,Adolescent pregnancy requires specialized care; Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Seek immediate treatment for high fever; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+20,120.0,76.0,7.5,98.0,70.0,low risk,All parameters normal - maintain routine prenatal care
+22,100.0,65.0,12.0,98.0,80.0,high risk,Monitor carbohydrate intake and blood sugar levels; Prenatal monitoring recommended
+35,100.0,70.0,11.0,98.0,60.0,high risk,Medical evaluation for low heart rate
+19,120.0,85.0,9.0,98.0,60.0,mid risk,Medical evaluation for low heart rate
+30,90.0,65.0,8.0,98.0,77.0,mid risk,Increase fluid intake for low systolic BP; Prenatal monitoring recommended
+50,130.0,80.0,15.0,98.0,86.0,high risk,Immediate diabetes screening recommended; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+29,90.0,70.0,11.0,100.0,80.0,high risk,Increase fluid intake for low systolic BP; Monitor temperature and stay hydrated; Prenatal monitoring recommended
+19,120.0,60.0,7.0,98.4,70.0,low risk,Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+46,140.0,100.0,12.0,99.0,90.0,high risk,Monitor systolic BP and reduce salt intake; Urgent care needed for diastolic BP; Monitor carbohydrate intake and blood sugar levels; Cardiac evaluation recommended for high heart rate; Prenatal monitoring recommended
+28,95.0,60.0,10.0,101.0,86.0,high risk,Consider compression stockings for low diastolic BP; Seek immediate treatment for high fever; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+50,120.0,80.0,7.0,98.0,70.0,mid risk,All parameters normal - maintain routine prenatal care
+39,110.0,70.0,7.9,98.0,80.0,mid risk,All parameters normal - maintain routine prenatal care
+25,140.0,100.0,15.0,98.6,70.0,high risk,Monitor systolic BP and reduce salt intake; Urgent care needed for diastolic BP; Immediate diabetes screening recommended; Prenatal monitoring recommended
+23,120.0,85.0,8.0,98.0,70.0,low risk,All parameters normal - maintain routine prenatal care
+29,130.0,70.0,8.0,98.0,78.0,mid risk,All parameters normal - maintain routine prenatal care
+17,90.0,60.0,9.0,102.0,86.0,mid risk,Adolescent pregnancy requires specialized care; Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Seek immediate treatment for high fever; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+32,120.0,90.0,7.0,100.0,70.0,mid risk,Monitor diastolic BP and practice relaxation techniques; Monitor temperature and stay hydrated; Prenatal monitoring recommended
+42,120.0,90.0,9.0,98.0,70.0,mid risk,Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+23,90.0,60.0,6.7,98.0,76.0,low risk,Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+15,76.0,68.0,7.0,98.0,77.0,low risk,Adolescent pregnancy requires specialized care; Increase fluid intake for low systolic BP; Prenatal monitoring recommended
+34,120.0,75.0,8.0,98.0,70.0,low risk,All parameters normal - maintain routine prenatal care
+15,120.0,80.0,6.6,99.0,70.0,low risk,Adolescent pregnancy requires specialized care
+27,140.0,90.0,15.0,98.0,90.0,high risk,Monitor systolic BP and reduce salt intake; Monitor diastolic BP and practice relaxation techniques; Immediate diabetes screening recommended; Cardiac evaluation recommended for high heart rate; Prenatal monitoring recommended
+25,140.0,100.0,12.0,99.0,80.0,high risk,Monitor systolic BP and reduce salt intake; Urgent care needed for diastolic BP; Monitor carbohydrate intake and blood sugar levels; Prenatal monitoring recommended
+36,120.0,90.0,7.0,98.0,82.0,mid risk,Monitor diastolic BP and practice relaxation techniques; Reduce caffeine and monitor heart rate; Prenatal monitoring recommended
+30,120.0,80.0,9.0,101.0,76.0,mid risk,Seek immediate treatment for high fever
+15,70.0,50.0,6.0,98.0,70.0,mid risk,Adolescent pregnancy requires specialized care; Medical evaluation needed for low systolic BP; Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+40,120.0,95.0,7.0,98.0,70.0,high risk,Monitor diastolic BP and practice relaxation techniques; Prenatal monitoring recommended
+15,90.0,60.0,6.0,98.0,80.0,low risk,Adolescent pregnancy requires specialized care; Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+21,90.0,50.0,6.9,98.0,60.0,low risk,Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Medical evaluation for low heart rate; Prenatal monitoring recommended
+15,90.0,49.0,6.0,98.0,77.0,low risk,Adolescent pregnancy requires specialized care; Increase fluid intake for low systolic BP; Medical evaluation needed for low diastolic BP; Prenatal monitoring recommended
+21,90.0,50.0,6.5,98.0,60.0,low risk,Increase fluid intake for low systolic BP; Consider compression stockings for low diastolic BP; Medical evaluation for low heart rate; Prenatal monitoring recommended
+15,90.0,49.0,6.7,99.0,77.0,low risk,Adolescent pregnancy requires specialized care; Increase fluid intake for low systolic BP; Medical evaluation needed for low diastolic BP; Prenatal monitoring recommended
+15,90.0,49.0,6.0,99.0,77.0,low risk,Adolescent pregnancy requires specialized care; Increase fluid intake for low systolic BP; Medical evaluation needed for low diastolic BP; Prenatal monitoring recommended
+10,100.0,50.0,6.0,99.0,70.0,mid risk,Adolescent pregnancy requires specialized care; Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+15,100.0,49.0,6.8,99.0,77.0,low risk,Adolescent pregnancy requires specialized care; Medical evaluation needed for low diastolic BP; Prenatal monitoring recommended
+15,100.0,49.0,6.0,99.0,77.0,low risk,Adolescent pregnancy requires specialized care; Medical evaluation needed for low diastolic BP; Prenatal monitoring recommended
+12,100.0,50.0,6.4,98.0,70.0,mid risk,Adolescent pregnancy requires specialized care; Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+15,100.0,60.0,6.0,98.0,80.0,low risk,Adolescent pregnancy requires specialized care; Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+15,100.0,49.0,7.6,98.0,77.0,low risk,Adolescent pregnancy requires specialized care; Medical evaluation needed for low diastolic BP; Prenatal monitoring recommended
+12,100.0,50.0,6.0,98.0,70.0,mid risk,Adolescent pregnancy requires specialized care; Consider compression stockings for low diastolic BP; Prenatal monitoring recommended
+21,100.0,50.0,6.8,98.0,60.0,low risk,Consider compression stockings for low diastolic BP; Medical evaluation for low heart rate; Prenatal monitoring recommended
