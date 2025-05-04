@@ -1,0 +1,10 @@
+streamlit
+pandas
+joblib
+numpy
+scikit-learn
+scipy
+xgboost
+imblearn.over_sampling
+sklearn.metrics
+json
